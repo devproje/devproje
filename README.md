@@ -30,7 +30,7 @@
 @@ Python @@
 ```
 
-### Code you will never use
+### Will never use some code
 ```diff
 - C++
 - C#
