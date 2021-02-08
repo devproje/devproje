@@ -3,6 +3,13 @@
 * JOB: High School Student
 * CURRENT SCHOOL: SEMYUNG COMPUTER HIGH SCHOOL
 
+## Status
+![Project)TL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Using Code
 ```diff
 + JVM (Kotlin, Scala, Groovy, Java)
