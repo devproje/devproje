@@ -1,16 +1,30 @@
-### Hi there 👋
+# Introduce Self
+* NAME: Project_TL
+* JOB: High School Student
+* CURRENT SCHOOL: SEMYUNG COMPUTER HIGH SCHOOL
 
-<!--
-**ProjectTL12345/ProjectTL12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Using Code
+```diff
++ JVM (Kotlin, Scala, Groovy, Java)
++ Go
++ C
++ Shell Script
+```
 
-Here are some ideas to get you started:
+### Code for self-study later
+```diff
++ Node.js
++ JavaScript
++ TypeScript
++ SQL
++ Lua
++ PHP
+@@ HTML, CSS @@
+@@ Python @@
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Code you will never use
+```diff
+- C++
+- C#
+```
