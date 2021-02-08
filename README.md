@@ -6,7 +6,7 @@
 ## Status
 ![Project)TL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/ProjectTL12345/List)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
