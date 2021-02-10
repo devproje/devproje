@@ -1,5 +1,6 @@
 # Introduce Self
 * NAME: Project_TL
+* REAL NAME: Kim Wonhyeok
 * JOB: High School Student
 * CURRENT SCHOOL: SEMYUNG COMPUTER HIGH SCHOOL
 
@@ -27,10 +28,11 @@
 + Node.js
 + JavaScript
 + TypeScript
-+ SQL
++ MySQL
 + Lua
 + PHP
-@@ HTML, CSS @@
++ Docker
++ HTML, CSS
 @@ Python @@
 ```
 
