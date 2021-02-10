@@ -1,5 +1,6 @@
 # Introduce Self
 * NAME: Project_TL
+* REAL NAME: Kim Wonhyeok
 * JOB: High School Student
 * CURRENT SCHOOL: SEMYUNG COMPUTER HIGH SCHOOL
 
