@@ -33,11 +33,11 @@
 + PHP
 + Docker
 + HTML, CSS
-@@ Python @@
 ```
 
 ### Will never use some code
 ```diff
 - C++
 - C#
+- Python
 ```
