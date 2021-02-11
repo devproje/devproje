@@ -1,8 +1,7 @@
 # Introduce Self
 * NAME: Project_TL
-* REAL NAME: Kim Wonhyeok
-* JOB: High School Student
-* CURRENT SCHOOL: SEMYUNG COMPUTER HIGH SCHOOL
+* JOB: Student
+* HABIT: Hardware, Minecraft plugin development, Program Develop, Learn Code, etc...
 
 ## Status
 ![Project)TL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark)
