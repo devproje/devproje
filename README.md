@@ -29,14 +29,14 @@
 + TypeScript
 + MySQL
 + Lua
-+ PHP
 + Docker
 + HTML, CSS
 ```
 
-### Will never use some code
+### Will never use some codes
 ```diff
 - C++
 - C#
+- PHP
 - Python
 ```
