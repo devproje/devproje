@@ -18,6 +18,7 @@
 + Shell Script
 + HTML, CSS
 + PHP
++ C#
 ```
 ### Using Special
 ```diff
@@ -26,7 +27,6 @@
 
 ### Code for self-study later
 ```diff
-+ C#
 + Node.js
 + JavaScript
 + TypeScript
