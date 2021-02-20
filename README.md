@@ -16,6 +16,8 @@
 + Go
 + C
 + Shell Script
++ HTML, CSS
++ PHP
 ```
 ### Using Special
 ```diff
@@ -24,19 +26,17 @@
 
 ### Code for self-study later
 ```diff
++ C#
 + Node.js
 + JavaScript
 + TypeScript
 + MySQL
 + Lua
 + Docker
-+ HTML, CSS
 ```
 
 ### Will never use some codes
 ```diff
 - C++
-- C#
-- PHP
 - Python
 ```
