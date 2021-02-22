@@ -1,7 +1,7 @@
 # Introduce Self
 * NAME: Project_TL
 * JOB: Student
-* HABIT: Hardware, Minecraft plugin development, Program Develop, Learn Code, etc...
+* HABIT: Hardware, Minecraft plugin development, Create Program, Learn Code, Arduino Coding etc...
 
 ## Status
 ![Project)TL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark)
