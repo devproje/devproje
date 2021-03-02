@@ -31,6 +31,7 @@
 + TypeScript
 + MySQL
 + Lua
++ Assembly
 + Docker
 + Python
 ```
