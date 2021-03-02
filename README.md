@@ -14,11 +14,10 @@
 ```diff
 + JVM (Kotlin, Scala, Groovy, Java)
 + Go
-+ C
++ C, C#
 + Shell Script
-+ HTML, CSS
++ HTML, CSS, JavaScript with Kotlin
 + PHP
-+ C#
 ```
 ### Using Special
 ```diff
@@ -33,10 +32,5 @@
 + MySQL
 + Lua
 + Docker
-```
-
-### Will never use some codes
-```diff
-- C++
-- Python
++ Python
 ```
