@@ -74,4 +74,4 @@
 
 - Spotify: 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31pk3gk4uqnn4usukn5osyjieqbq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31pk3gk4uqnn4usukn5osyjieqbq&cover_image=false&theme=default)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pk3gk4uqnn4usukn5osyjieqbq&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31pk3gk4uqnn4usukn5osyjieqbq&redirect=true)
