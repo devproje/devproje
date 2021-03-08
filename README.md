@@ -38,7 +38,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31pk3gk4uqnn4usukn5osyjieqbq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31pk3gk4uqnn4usukn5osyjieqbq&cover_image=false&theme=default)]]nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
@@ -74,4 +74,4 @@
 
 - Spotify: 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pk3gk4uqnn4usukn5osyjieqbq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31pk3gk4uqnn4usukn5osyjieqbq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31pk3gk4uqnn4usukn5osyjieqbq&cover_image=false&theme=default)]]
