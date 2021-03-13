@@ -55,14 +55,14 @@
 </a>  
 
 # Stats
-<div align="center">![Project)TL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark)</div>
+![Project)TL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark)
 
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&langs_count=5&theme=dark)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&langs_count=5&theme=dark)
 
 ## Main Repositories
-<div align="center">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/ProjectTL12345/List)</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/ProjectTL12345/List)
 
-<div align="center">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=RocketLauncher_Plugin&theme=dark)](https://github.com/ProjectTL12345/RocketLauncher_Plugin)</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=RocketLauncher_Plugin&theme=dark)](https://github.com/ProjectTL12345/RocketLauncher_Plugin)
 
 # Contact
 - Discord: Project_TL#9436 
