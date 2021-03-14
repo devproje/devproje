@@ -55,14 +55,18 @@
 </a>  
 
 # Stats
-![Project)TL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&langs_count=5&theme=dark)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&theme=dark&&hide_border=true&layout=compact" align="center" /></div>  
 
 ## Main Repositories
+<center>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/ProjectTL12345/List)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=RocketLauncher_Plugin&theme=dark)](https://github.com/ProjectTL12345/RocketLauncher_Plugin)
+
+</center>
 
 # Contact
 - Discord: Project_TL#9436 
