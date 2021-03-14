@@ -10,7 +10,6 @@
 
 # Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&theme=dark&&hide_border=true&layout=compact" align="center" /></div>  
 
 ## Main Repositories
