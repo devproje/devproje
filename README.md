@@ -3,34 +3,40 @@
 - Student
 - Go, C Developer
 
-### HOBBY
-- Hardware
-- Minecraft plugin development - Side Project
-- Create Program
+## HOBBY
 - Learning Code
-- Make Automatic System
+- Exercise
+- Listening Music
 
-# Stats
+### PROJECT STATUS
+```diff
++ Hardware
++ Minecraft plugin development - Side Project
++ Create Program - Side Project
++ Make Automatic System - Current Project
+```
+
+# STATS
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&theme=dark&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
-## Main Repositories
+## MAIN REPOSITORIES
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/ProjectTL12345/List)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=RocketLauncher_Plugin&theme=dark)](https://github.com/ProjectTL12345/RocketLauncher_Plugin)
 
-# Often use codes
+## OFTEN USE CODES
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /> 
 </div>
 
-# Can possible use code or studing code  
+## CAN POSSIBLE USE CODES OR STUDING CODE
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />  
@@ -42,7 +48,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> 
 </div>
 
-# Using Platform  
+## USING PLATFORMS
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
@@ -54,7 +60,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 </div>
 
-# Self-study later codes and platforms  
+## SELF-STUDY LATER CODES AND PLATFORMS
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
@@ -73,7 +79,7 @@
 </div>
 </a>  
 
-# Contact
+## CONTACT
 - Discord: Project_TL#9436 
 - Gmail: projecttl12345@gmail.com
 - Github: 
