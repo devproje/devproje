@@ -3,7 +3,7 @@
 - Student
 ### HOBBY
 - Hardware
-- ~~Minecraft plugin development~~ (Stopped developing)
+- Minecraft plugin development - Side Project
 - Create Program
 - Learning Code
 - Make Automatic System
