@@ -74,21 +74,20 @@
   <a href="https://dart.dev/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
   <a href="https://flutter.dev/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>    
   <a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
-  <a href=https://www.haskell.org/""><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>  
+  <a href="https://www.haskell.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>  
   <a href="https://www.ruby-lang.org/en/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>
   <a href="https://developer.android.com/?hl=en"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-  <a href=""><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-  <a href=""><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-  <a href=""><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-</div>
-</a>  
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
+  <a href="https://about.gitlab.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+  <a href="https://dotnet.microsoft.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+</div>  
 
 ## CONTACT
 - Discord: Project_TL#9436 
 - Gmail: projecttl12345@gmail.com
 - Github: 
 <a href="https://github.com/ProjectTL12345" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 
 - Spotify: 
