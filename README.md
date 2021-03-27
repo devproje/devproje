@@ -36,12 +36,8 @@
 ## OFTEN USE CODES
 <div align="center">
   <a href="https://devdocs.io/c/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-  
   <a href="https://golang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
-  
-  <a href="https://kotlinlang.org/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /> 
-  </a>
+  <a href="https://kotlinlang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>
   
 </div>
 
