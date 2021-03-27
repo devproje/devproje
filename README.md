@@ -17,9 +17,13 @@
 ```
 
 # STATS
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" style="width: 100%" />
+</div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&theme=dark&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&theme=dark&hide_border=true&layout=compact" align="center" style="width: 100%" />
+</div>  
 
 <br/>  
 
@@ -31,9 +35,14 @@
 
 ## OFTEN USE CODES
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /> 
+  <a href="https://devdocs.io/c/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
+  
+  <a href="https://golang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
+  
+  <a href="https://kotlinlang.org/">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /> 
+  </a>
+  
 </div>
 
 ## CAN POSSIBLE USE CODES OR STUDING CODE
@@ -46,7 +55,9 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />
+  <a href="https://developer.apple.com/swift/">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />
+  </a>
 </div>
 
 ## USING PLATFORMS
