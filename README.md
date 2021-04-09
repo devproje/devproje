@@ -1,6 +1,5 @@
 # Introduce Self for Project_TL
 ### JOB
-- Student
 - Go, C Developer
 
 ## HOBBY
@@ -10,10 +9,9 @@
 
 ### PROJECT STATUS
 ```diff
-+ Hardware
++ Make Automatic System - Current Project
 + Minecraft plugin development - Side Project
 + Create Program - Side Project
-+ Make Automatic System - Current Project
 ```
 
 # STATS
@@ -58,8 +56,7 @@
   <a href="https://www.raspberrypi.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
   <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
   <a href="https://linux.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-  <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-  <a href="https://www.arduino.cc/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a> 
+  <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
   <a href="https://spring.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
   <a href="https://www.adobe.com/products/photoshop.htmlhttps://www.adobe.com/products/photoshop.html"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
   <a href="https://www.adobe.com/products/premiere.html"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>
@@ -76,7 +73,6 @@
   <a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
   <a href="https://www.haskell.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>  
   <a href="https://www.ruby-lang.org/en/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>
-  <a href="https://developer.android.com/?hl=en"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
   <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
   <a href="https://about.gitlab.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
   <a href="https://dotnet.microsoft.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
