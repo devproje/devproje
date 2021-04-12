@@ -1,6 +1,6 @@
 # Introduce Self for Project_TL
 ### JOB
-- Go, C Developer
+- Student
 
 ## HOBBY
 - Learning Code
