@@ -9,9 +9,10 @@
 
 ### PROJECT STATUS
 ```diff
-+ Make Automatic System - Current Project
-+ Minecraft plugin development - Side Project
-+ Create Program - Side Project
+@@ Make Automatic System @@ - Current Project
++ Make rust plugin with netherald - Current Objective
++ Make Minecraft plugin - Side Objective
++ Practice writing code - Side Objective
 ```
 
 ## STATS
