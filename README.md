@@ -2,6 +2,9 @@
 ### JOB
 - Student
 
+## PERSONAL MESSAGE
+- C++ is horrible language.
+
 ## HOBBY
 - Learning Code
 - Exercise
