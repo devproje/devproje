@@ -15,7 +15,6 @@
 + Make Automatic System - Current Project
 + Make Minecraft plugin - Current Project
 + Practice writing code - Side Project
-- Make rust plugin with netherald - Ended
 ```
 
 ## STATS
