@@ -32,7 +32,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/ProjectTL12345/List)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=RocketLauncher_Plugin&theme=dark)](https://github.com/ProjectTL12345/RocketLauncher_Plugin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=InventoryGUI&theme=dark)](https://github.com/ProjectTL12345/InventoryGUI)
 
 ## OFTEN USE CODES
 <div align="center">
