@@ -34,6 +34,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=InventoryGUI&theme=dark)](https://github.com/ProjectTL12345/InventoryGUI)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=project-bot_remake&theme=dark)](https://github.com/ProjectTL12345/project-bot_remake)
+
 ## OFTEN USE CODES
 <div align="center">
   <a href="https://devdocs.io/c/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
