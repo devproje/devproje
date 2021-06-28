@@ -82,7 +82,12 @@
   <a href="https://about.gitlab.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
   <a href="https://dotnet.microsoft.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 </div>  
-
+  
+## NEVER USE LANGUAGE
+<div align="center">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
+</div>
+  
 ## CONTACT
 - Discord: Project_TL#9436 
 - Gmail: projecttl12345@gmail.com
