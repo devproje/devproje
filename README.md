@@ -36,18 +36,23 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=project-bot_remake&theme=dark)](https://github.com/ProjectTL12345/project-bot_remake)
 
-## CAN POSSIBLE USE CODES OR STUDING CODE
-<table><tr><td valign="top" width="33%">
+## USING IDE
+<div align="center">
+  <a href="https://www.jetbrains.com/idea/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="50" /></a>
+  <a href="https://code.visualstudio.com/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="50" /></a>
+</div>
+
+## MY CODE OR PLATFORM SKILLS
+
+<table><tr><td valign="top" width="33%">  
 
 ### FRONTEND
 <div align="center">
   <a href="https://devdocs.io/html/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
   <a href="https://devdocs.io/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
   <a href="https://www.php.net/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> 
-</div>
-
-</td><td valign="top" width="33%">
+  
+</div></td><td valign="top" width="33%">
 
 ### BACKEND
 <div align="center">  
@@ -61,12 +66,12 @@
   <a href="https://devdocs.io/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
   <a href="https://devdocs.io/javascript/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
   <a href="https://developer.apple.com/swift/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>
-</div>
+  
+</div></td><td valign="top" width="33%">
 
-</td><td valign="top" width="33%">
-
-### DevOps  
+### PLATFORMS
 <div align="center">  
+  <a href="https://www.jetbrains.com/teamcity/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" alt="TeamCity" height="50" /></a>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
   <a href="https://www.raspberrypi.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
@@ -76,10 +81,8 @@
   <a href="https://spring.io/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
   <a href="https://www.adobe.com/products/photoshop.htmlhttps://www.adobe.com/products/photoshop.html"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
   <a href="https://www.adobe.com/products/premiere.html"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>
-</div>
-
-</td>
-<br/>  
+    
+</div></td><br/>  
 
 <table><tr><td valign="top" width="33%">
   
@@ -93,6 +96,7 @@
   <a href="https://www.haskell.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>  
   <a href="https://www.ruby-lang.org/en/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>
   <a href="https://dotnet.microsoft.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> 
 </div>  
 
 </td><td valign="top" width="33%">
