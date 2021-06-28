@@ -117,7 +117,7 @@
   
 ## CONTACT
 - Discord: Project_TL#9436 
-- Gmail: projecttl12345@gmail.com
+- Gmail: me@projecttl.net
 - Github: 
 <a href="https://github.com/ProjectTL12345" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
