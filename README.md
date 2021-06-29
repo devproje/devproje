@@ -110,9 +110,10 @@
 <a href="https://about.gitlab.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div></td><td valign="top" width="33%">
 
-### NEVER USE LANGUAGE
+### NEVER USE CODES
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
+  <img style="margin: 10px" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" alt="Skript" height="50" />
 </div></td></tr></table><br/>  
   
 ## CONTACT
