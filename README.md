@@ -115,13 +115,23 @@
 </div></td></tr></table><br/>  
   
 ## CONTACT
-- Discord: Project_TL#9436 
-- Gmail: me@projecttl.net
-- Github: 
+<div align="left">
+  
+- Discord:
+  Project_TL#9436 
+  
+- Gmail
+  me@projecttl.net
+  
+- Github
 <a href="https://github.com/ProjectTL12345" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a><br/>
 
-- Spotify: 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pk3gk4uqnn4usukn5osyjieqbq&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31pk3gk4uqnn4usukn5osyjieqbq&redirect=true)
+- Spotify<br/>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pk3gk4uqnn4usukn5osyjieqbq&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31pk3gk4uqnn4usukn5osyjieqbq&redirect=true)
+  
+- Donate (Project_TL can drink Coca-Cola)
+  - Toss<br/>
+  [Click to Donate!](https://toss.me/ProjectTL)
+</div>
