@@ -4,6 +4,7 @@
 
 ## PERSONAL MESSAGE
 - C++ is horrible language.
+- Skript is really disgustin' script.
 
 ## HOBBY
 - Learning Code
