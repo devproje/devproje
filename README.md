@@ -3,7 +3,7 @@
 - Student
 
 ## PERSONAL MESSAGE
-- C++ is horrible language.
+- C++ is terrible language.
 - Skript is really disgustin' script.
 
 ## HOBBY
