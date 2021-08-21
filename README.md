@@ -1,22 +1,12 @@
 # Introduce Self for Project_TL
-### JOB
-- Student
 
-## PERSONAL MESSAGE
-- C++ is terrible language.
-- Skript is really disgustin' script.
+Hello! my name is Project_TL. My current job is High School Student and Minecraft plugin developer. 
+- My current project is PBalance plugin, InventoryGUI, RedCat Discord Bot, Netherald's minecord, Netherald's MineJS and Netherald's PTowny.
+- My hobby is Exercising and Listening Spotify, Write some codes.
+- I don't like it C++ and Skript, because their code style is really really mass.
+And their is really disgusting and terrible too.<br/>
 
-## HOBBY
-- Learning Code
-- Exercise
-- Listening Music
-
-### PROJECT STATUS
-```diff
-+ Make Automatic System - Current Project
-+ Make Minecraft plugin - Current Project
-+ Practice writing code - Side Project
-```
+Anyway nice to meet you!
 
 ## STATS
 <div align="center">
