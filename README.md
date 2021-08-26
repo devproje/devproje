@@ -3,7 +3,7 @@
 Hello! my name is Project_TL. My current job is High School Student and Minecraft plugin developer. 
 - My current project is PBalance plugin, InventoryGUI, RedCat Discord Bot, Netherald's minecord, Netherald's MineJS and Netherald's PTowny.
 - My hobby is Exercising and Listening Spotify, Write some codes.
-- I don't like it C++ and Skript, because their code style is really really mass.
+- I don't like C++ and Skript, because their code style is really really mass.
 And their is really disgusting and terrible too.<br/>
 
 Anyway nice to meet you!
