@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PROJECT-OPERATOR](https://github.com/PROJECT-OPERATOR)  
 - 🌱 I’m currently learning GPIO and Hardware  
-- ❓ Ask me about anything related to Minecraft plugin and Hardware GPIO
+- ❓ Ask me about anything related to Minecraft plugin and RaspberryPI GPIO
 - ⚡ Fun fact: I hate C++ and Skript  
 <br/>
 
