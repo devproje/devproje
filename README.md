@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PROJECT-OPERATOR](https://github.com/PROJECT-OPERATOR)  
 - 🌱 I’m currently learning GPIO and Hardware  
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Minecraft plugin and Hardware GPIO
 - ⚡ Fun fact: I hate C++ and Skript  
 <br/>
 
