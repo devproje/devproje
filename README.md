@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning GPIO and Hardware  
 - ❓ Ask me about anything related to Minecraft plugin and RaspberryPI GPIO
 - ⚡ Fun fact: 
-  - I hate C++ and Skript.
+  - I hate C++ and Skript and Lua.
   - HTML is not programming language.
 <br/>
 
