@@ -153,23 +153,23 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="https://github.com/ProjectTL12345" target="_blank">
+  <a href="https://github.com/DEVProject04" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>  
 </div>
 <br/>
 
 ## MAIN REPOSITORIES
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/ProjectTL12345/List)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=InventoryGUI&theme=dark)](https://github.com/ProjectTL12345/InventoryGUI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=redcat-bot&theme=dark)](https://github.com/ProjectTL12345/project-bot_remake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/DEVProject04/List)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=InventoryGUI&theme=dark)](https://github.com/DEVProject04/InventoryGUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=redcat-bot&theme=dark)](https://github.com/DEVProject04/project-bot_remake)
 <br/>
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProjectTL12345&show_icons=true&theme=dark&count_private=true&hide_border=true" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVProject04&show_icons=true&theme=dark&count_private=true&hide_border=true" align="left" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectTL12345&theme=dark&hide_border=true&layout=compact" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVProject04&theme=dark&hide_border=true&layout=compact" align="left" />
   <br/>
 </div>
 <br/>
