@@ -160,9 +160,9 @@
 <br/>
 
 ## MAIN REPOSITORIES
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=List&theme=dark)](https://github.com/DEVProject04/List)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=InventoryGUI&theme=dark)](https://github.com/DEVProject04/InventoryGUI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectTL12345&repo=redcat-bot&theme=dark)](https://github.com/DEVProject04/project-bot_remake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEVProject04&repo=List&theme=dark)](https://github.com/DEVProject04/List)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEVProject04&repo=InventoryGUI&theme=dark)](https://github.com/DEVProject04/InventoryGUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEVProject04&repo=redcat-bot&theme=dark)](https://github.com/DEVProject04/project-bot_remake)
 <br/>
 
 ## Github Stats  
