@@ -6,11 +6,11 @@
 ### <div align="center">I'm Project_TL, minecraft plugin developer 👨‍💻 working since 2019 🚀</div>  
 
 - 🔭 I’m currently working on [PROJECT-OPERATOR](https://github.com/PROJECT-OPERATOR), FlagPvP
-- 🌱 I’m currently learning GPIO and Hardware  
-- ❓ Ask me about anything related to Minecraft plugin and RaspberryPI GPIO
+- 🌱 I’m currently learning node.js and Flutter
+- ❓ Ask me about anything related to Minecraft plugin
 - ⚡ Fun fact: 
-  - I hate C++ and Skript and Lua.
-  - HTML is not programming language.
+  - I'm really hate C++ and Skript and Lua.
+  - HTML is **not** programming language.
 <br/>
 
 ### Using IDE
