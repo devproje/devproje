@@ -14,7 +14,7 @@
 <br/>
 
 ## Connect with me  
-<div align="center">
+<div align="left">
   <a href="https://github.com/DEVProject04" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>  
@@ -22,15 +22,14 @@
 <br/>
 
 ## Github Stats  
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DEVProject04&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVProject04&theme=dark&hide_border=true&layout=compact" align="center" />
   <br/>
 </div>
 
 ## Languages and Tools
-<div align="center">
+<div align="left">
   <a href="https://devdocs.io/c/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
   <a href="https://golang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
   <a href="https://kotlinlang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>
@@ -102,7 +101,7 @@
 </div>
   
 ## HATE THINGS
-<div align="center">
+<div align="left">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
   <img style="margin: 10px" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" alt="Skript" height="50" />
 </div>
