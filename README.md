@@ -21,13 +21,6 @@
 </div>
 <br/>
 
-## Github Stats  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVProject04&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVProject04&theme=dark&hide_border=true&layout=compact" align="center" />
-  <br/>
-</div>
-
 ## Languages and Tools
 <div align="left">
   <a href="https://devdocs.io/c/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
@@ -98,6 +91,13 @@
   <a href="https://www.adobe.com/products/premiere.html">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
   </a>
+</div>
+
+## Github Stats  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVProject04&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVProject04&theme=dark&hide_border=true&layout=compact" align="center" />
+  <br/>
 </div>
   
 ## HATE THINGS
