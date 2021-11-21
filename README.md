@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Dev_Project, minecraft plugin developer 👨‍💻 working since 2019 🚀</div>  
+### <div align="center">I'm Dev_Project, A student developer 👨‍💻 working since 2015 🚀</div>  
 
 - 🔭 I’m currently working on [PROJECT-OPERATOR](https://github.com/PROJECT-OPERATOR), FlagPvP
 - 🌱 I’m currently learning node.js and Flutter
