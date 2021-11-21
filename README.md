@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Project_TL, minecraft plugin developer 👨‍💻 working since 2019 🚀</div>  
+### <div align="center">I'm Dev_Project, minecraft plugin developer 👨‍💻 working since 2019 🚀</div>  
 
 - 🔭 I’m currently working on [PROJECT-OPERATOR](https://github.com/PROJECT-OPERATOR), FlagPvP
 - 🌱 I’m currently learning node.js and Flutter
@@ -100,3 +100,34 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
   </a>
 </div>
+  
+## HATE THINGS
+<div align="center">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
+  <img style="margin: 10px" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" alt="Skript" height="50" />
+</div>
+
+<!--
+<h4>Self-Study codes</h4>
+<a href="https://www.typescriptlang.org/">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+</a>
+<a href="https://reactjs.org/">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+</a>   
+<a href="https://www.haskell.org/">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" />
+</a>  
+<a href="https://www.ruby-lang.org/en/">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />
+</a>
+<a href="https://dotnet.microsoft.com/">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
+</a>
+<a href="https://www.rust-lang.org/">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
+</a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
+<a href="https://about.gitlab.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+</div>
+-->
