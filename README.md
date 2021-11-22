@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning node.js and Flutter
 - ❓ Ask me about anything related to Minecraft plugin
 - ⚡ Fun fact: 
-  - I'm really hate C++ and Skript.
+  - I'm really hate C++ and Skript and Lua's Array first index.
   - HTML is **not** programming language.
 <br/>
 
