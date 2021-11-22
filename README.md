@@ -99,6 +99,7 @@
 <div align="left">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
   <img style="margin: 10px" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" alt="Skript" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />
 </div>
 
 <!--
@@ -111,9 +112,6 @@
 </a>   
 <a href="https://www.haskell.org/">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" />
-</a>  
-<a href="https://www.ruby-lang.org/en/">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />
 </a>
 <a href="https://dotnet.microsoft.com/">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
