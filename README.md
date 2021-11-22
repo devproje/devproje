@@ -10,9 +10,15 @@
 
 ## Connect with me  
 <div align="left">
-  <a href="https://github.com/DEVProject04" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>  
+  <a href="https://github.com/DevProject04">
+    <img alt="GitHub" height="32" width="32" src="assets/github.svg">
+  </a>
+  <a href="https://discord.gg/ngcTymJQXX">
+    <img alt="Discord" title="Discord - Dev_Project#0001" height="32" width="32" src="assets/discord.svg">
+  </a>
+  <a href="https://twitch.tv/Project_TL">
+    <img alt="Twitch" height="32" width="32" src="assets/twitch.svg">
+  </a>
 </div>
 <br/>
 
