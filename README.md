@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning node.js and Flutter
 - ❓ Ask me about anything related to Minecraft plugin
 - ⚡ Fun fact: 
-  - I'm really hate C++ and Skript and Lua.
+  - I'm really hate C++ and Skript.
   - HTML is **not** programming language.
 <br/>
 
@@ -105,7 +105,6 @@
 <div align="left">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
   <img style="margin: 10px" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" alt="Skript" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />
 </div>
 
 <!--
@@ -128,4 +127,5 @@
 <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 <a href="https://about.gitlab.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />
 -->
