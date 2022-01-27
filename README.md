@@ -1,7 +1,7 @@
 ### <div align="center">I'm Dev_Project, A student developer 👨‍💻 working since 2015 🚀</div>  
 
 - 🔭 I’m currently working on [FlagPvP](https://github.com/FlagPvP) and [PROJECT-OPERATOR](https://github.com/PROJECT-OPERATOR)
-- 🌱 I’m currently learning next.js and velocity
+- 🌱 I’m currently learning React and Velocity
 - ❓ Ask me about anything related to Minecraft plugin
 - ⚡ Fun fact: 
   - I'm really hate C++ and Skript and Lua's Array first index.
