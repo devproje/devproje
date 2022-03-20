@@ -1,12 +1,19 @@
 ### <div align="center">I'm Dev_Project, A student developer 👨‍💻 working since 2015 🚀</div>  
 
-- 🔭 I’m currently working on [FlagPvP](https://github.com/FlagPvP) and [PROJECT-OPERATOR](https://github.com/PROJECT-OPERATOR)
-- 🌱 I’m currently learning React and Velocity
+- 🔭 I’m currently working on [CUBE Connect](https://github.com/cube-connects)
+- 🌱 I’m currently learning REST API
 - ❓ Ask me about anything related to Minecraft plugin
 - ⚡ Fun fact: 
   - I'm really hate C++ and Skript and Lua's Array first index.
   - HTML is **not** programming language.
 <br/>
+
+## Github Stats  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVProject04&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVProject04&theme=dark&hide_border=true&layout=compact" align="center" />
+  <br/>
+</div>
 
 ## Connect with me  
 <div align="left">
@@ -95,13 +102,6 @@
   <a href="https://www.adobe.com/products/premiere.html">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
   </a>
-</div>
-
-## Github Stats  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVProject04&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVProject04&theme=dark&hide_border=true&layout=compact" align="center" />
-  <br/>
 </div>
   
 ## HATE THINGS
