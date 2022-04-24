@@ -17,7 +17,7 @@
 
 ## Connect with me  
 <div align="left">
-  <a href="https://github.com/DevProject04">
+  <a href="https://github.com/devproje">
     <img alt="GitHub" height="32" width="32" src="assets/github.svg">
   </a>
   <a href="https://discord.gg/ngcTymJQXX">
