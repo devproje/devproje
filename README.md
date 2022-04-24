@@ -10,8 +10,8 @@
 
 ## Github Stats  
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVProject04&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVProject04&theme=dark&hide_border=true&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&theme=dark&hide_border=true&layout=compact" align="center" />
   <br/>
 </div>
 
