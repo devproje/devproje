@@ -10,7 +10,7 @@ struct Person {
 int main(int argc, char **argv) {
   struct Person *dev = malloc(sizeof(struct Person));
   
-  strcpy(dev->name, "DEV_Project");
+  strcpy(dev->name, "Project_TL");
   dev->age = 17; // 한국 만 나이
   
   printf("Hello! I'm %d years old %s Nice to meet you!\n", dev->age, dev->name);
