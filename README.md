@@ -7,6 +7,7 @@
 
 int main(int argc, char **argv) {
   char *str = malloc(sizeof(char) * MAX_MESSAGE_SIZE);
+  str = argv[1];
   puts(str);
   free(str);
 
@@ -225,6 +226,6 @@ Hello, World!
 
 ## HATE THINGS
 <div align="left">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-  <img style="margin: 10px" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" alt="Skript" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>
+  <img style="margin: 10px" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" alt="Skript" height="50"/>
 </div>
