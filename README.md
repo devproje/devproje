@@ -81,6 +81,8 @@ Hello, World!
 </a>
 <a href="https://aws.amazon.com/">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
+<a href="https://vultr.com/">
+  <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white">
 </a>
 <a href="https://cloudflare.com/">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/>
@@ -95,6 +97,9 @@ Hello, World!
 </a>
 <a href="https://code.visualstudio.com">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+</a>
+<a href="https://code.visualstudio.com">
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white">
 </a>
 <br/>
 
