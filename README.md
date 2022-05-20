@@ -67,6 +67,7 @@ Hello, World!
 <a href="https://fedoraproject.org/">
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=Fedora&logoColor=white"/>
 </a>
+<br/>
 
 > IDE
 <a href="https://www.jetbrains.com/idea">
@@ -78,6 +79,7 @@ Hello, World!
 <a href="https://code.visualstudio.com">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 </a>
+<br/>
 
 > Tool or Program
 <a href="https://www.jetbrains.com/teamcity">
@@ -98,6 +100,7 @@ Hello, World!
 <a href="https://www.adobe.com/products/premiere.html">
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
 </a>
+<br/>
 
 > Framework
 <a href="https://getbootstrap.com/">
@@ -115,6 +118,7 @@ Hello, World!
 <a href="https://svelte.dev/">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
 </a>
+<br/>
 
 > MCU(MicroController Unit)
 <a href="https://www.raspberrypi.org/">
@@ -123,6 +127,7 @@ Hello, World!
 <a href="https://www.arduino.cc/">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </a>
+<br/>
 
 > Database
 <a href="https://www.mysql.com/">
@@ -134,12 +139,14 @@ Hello, World!
 <a href="https://www.mongodb.com/">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </a>
+<br/>
 
 ### Langauges
 > Scripts
 <a href="https://devdocs.io/bash">
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
 </a>
+<br/>
 
 > Frontend
 <a href="https://devdocs.io/html">
@@ -154,6 +161,7 @@ Hello, World!
 <a href="https://www.php.net/docs.php">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </a>
+<br/>
 
 > System or Backend
 <a href="https://en.cppreference.com/w/c">
@@ -183,6 +191,7 @@ Hello, World!
 <a href="https://www.typescriptlang.org/docs">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </a>
+<br/>
 
 > Application
 <a href="https://dart.dev/guides">
