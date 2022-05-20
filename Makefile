@@ -1,6 +1,6 @@
 cc = gcc
 obj = main.o
-target = profile.out
+target = profile
 
 $(target): $(obj)
 	$(cc) -o $(target) $(obj)
