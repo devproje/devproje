@@ -59,15 +59,32 @@ Hello, World!
 </a>
 
 ## Using Tools and Languages
-### Tools or Frameworks
-> System
+### Applications or Libraries
+> Base System
 <a href="https://linux.org/">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </a>
 <a href="https://fedoraproject.org/">
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=Fedora&logoColor=white"/>
 </a>
+<a href="https://ubuntu.com/">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+</a>
+<a href="https://www.kali.org/">
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=kali linux&logoColor=white"/>
+</a>
 <br/>
+
+> DevOps or CDN
+<a href="https://www.jetbrains.com/teamcity">
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=TeamCity&logoColor=white">
+</a>
+<a href="https://aws.amazon.com/">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
+</a>
+<a href="https://cloudflare.com/">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/>
+</a> 
 
 > IDE
 <a href="https://www.jetbrains.com/idea">
@@ -82,9 +99,6 @@ Hello, World!
 <br/>
 
 > Tool or Program
-<a href="https://www.jetbrains.com/teamcity">
-  <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=TeamCity&logoColor=white">
-</a>
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 </a> 
