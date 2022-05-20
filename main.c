@@ -11,13 +11,12 @@ struct person {
 
 int main(int argc, char **argv) {
     struct person *project = malloc(sizeof(struct person));
-  
     strcpy(project->name, "Project_TL");
     strcpy(project->job, "Student");
     strcpy(project->email, "me@projecttl.net");
     project->age = 18;
   
-    puts("Current Profile:");
+    puts(strcat(project->name, "'s Profile:"));
     printf("\tname:  %s\n", project->name);
     printf("\tage:   %d\n", project->age);
     printf("\tjob:   %s\n", project->job);

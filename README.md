@@ -1,10 +1,32 @@
-### <div align="center">I'm Dev_Project, A student developer 👨‍💻 working since 2015 🚀</div>  
+```c
+// main.c
+#include <stdio.h>
+#include <stdlib.h>
+
+#define MAX_MESSAGE_SIZE 30
+
+int main(int argc, char **argv) {
+  char *str = malloc(sizeof(char) * MAX_MESSAGE_SIZE);
+  puts(str);
+  free(str);
+
+  return 0;
+}
+```
+```sh
+~$ gcc -o message main.c
+~$ ./message 'Hello, World!'
+Hello, World!
+```
+<br/>
+
+### <div align="center">I'm Project_TL, A student developer 👨‍💻 working since 2015 🚀</div>
 
 - 🔭 I’m currently working on [CUBE Connect](https://github.com/cube-connects)
-- 🌱 I’m currently learning REST API
-- ❓ Ask me about anything related to Minecraft plugin
-- ⚡ Fun fact: 
-  - I'm really hate C++ and Skript and Lua's Array first index.
+- 🌱 I’m currently learning MCU(MicroController Unit) and Backend
+- ❓ Ask me about anything related to Minecraft Server Bukkit
+- ⚡ Fun fact:
+  - C not have bool type.(If not including stdbool.h)
   - HTML is **not** programming language.
 <br/>
 
@@ -15,117 +37,159 @@
   <br/>
 </div>
 
-## Connect with me  
-<div align="left">
-  <a href="https://github.com/devproje">
-    <img alt="GitHub" height="32" width="32" src="assets/github.svg">
-  </a>
-  <a href="https://discord.gg/ngcTymJQXX">
-    <img alt="Discord" title="Discord - Dev_Project#0001" height="32" width="32" src="assets/discord.svg">
-  </a>
-  <a href="https://twitch.tv/Project_TL">
-    <img alt="Twitch" height="32" width="32" src="assets/twitch.svg">
-  </a>
-</div>
+## Connect with me
+<a href="https://github.com/devproje">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://cube1.dev/discord">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/channel/UCbFF-pr6prqOLUFbwJEZ16g">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white">
+</a>
+<a href="https://twitch.tv/Project_TL">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/>
+</a>
+<br/>
 <br/>
 
-## Languages and Tools
-<div align="left">
-  <a href="https://devdocs.io/c/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-  <a href="https://golang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
-  <a href="https://kotlinlang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>
-  <a href="https://www.jetbrains.com/idea/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="50" /></a>
-  <a href="https://code.visualstudio.com/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="50" /></a>
-  <a href="https://www.nginx.com/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-  </a>
-  <a href="https://devdocs.io/html/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  </a>  
-  <a href="https://devdocs.io/css/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  </a> 
-  <a href="https://www.php.net/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  </a> 
-  <a href="https://flutter.dev/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
-  </a>
-  <a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://docs.oracle.com/en/java/javase/11/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-  <a href="https://www.scala-lang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>
-  <a href="https://dart.dev/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
-  </a> 
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
-  <a href="https://devdocs.io/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-  <a href="https://devdocs.io/javascript/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://www.typescriptlang.org/">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+## Using Tools and Languages
+### Tools or Frameworks
+> System
+<a href="https://linux.org/">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </a>
-  <a href="https://nodejs.org/en/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  <a href="https://developer.apple.com/swift/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>
-  <a href="https://www.mongodb.com/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-  </a>
-  <a href="https://www.jetbrains.com/teamcity/">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" alt="TeamCity" height="50" />
-  </a>
-  <a href="https://cloud.google.com/gcp/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>  
-  <a href="https://www.raspberrypi.org/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
-  </a>  
-  <a href="https://www.docker.com/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-  </a>  
-  <a href="https://linux.org/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
-  </a>
-  <a href="https://spring.io/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.htmlhttps://www.adobe.com/products/photoshop.html">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
-  </a>
-</div>
-  
-## HATE THINGS
-<div align="left">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
-  <img style="margin: 10px" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" alt="Skript" height="50" />
-</div>
+<a href="https://fedoraproject.org/">
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=Fedora&logoColor=white"/>
+</a>
 
-<!--
-<h4>Self-Study codes</h4>
+> IDE
+<a href="https://www.jetbrains.com/idea">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij idea&logoColor=white"/>
+</a>
+<a href="https://www.jetbrains.com/go">
+  <img src="https://img.shields.io/badge/GoLand-000000?style=flat-square&logo=goland&logoColor=white"/>
+</a>
+<a href="https://code.visualstudio.com">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+</a>
+
+> Tool or Program
+<a href="https://www.jetbrains.com/teamcity">
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=TeamCity&logoColor=white">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+</a> 
+<a href="https://www.nginx.com">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white">
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</a>
+<a href="https://www.adobe.com/products/photoshop.html">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+</a>
+<a href="https://www.adobe.com/products/premiere.html">
+  <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+</a>
+
+> Framework
+<a href="https://getbootstrap.com/">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+</a> 
+<a href="https://flutter.dev/">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+</a>
+<a href="https://spring.io/">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+</a>
 <a href="https://reactjs.org/">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-</a>   
-<a href="https://www.haskell.org/">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </a>
-<a href="https://dotnet.microsoft.com/">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
+<a href="https://svelte.dev/">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
 </a>
-<a href="https://www.rust-lang.org/">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
+
+> MCU(MicroController Unit)
+<a href="https://www.raspberrypi.org/">
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
 </a>
-<a href="https://www.adobe.com/products/photoshop-lightroom.html"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://about.gitlab.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-</div>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />
--->
+<a href="https://www.arduino.cc/">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+</a>
+
+> Database
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+</a>
+<a href="https://mariadb.org/">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> 
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+</a>
+
+### Langauges
+> Scripts
+<a href="https://devdocs.io/bash">
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
+</a>
+
+> Frontend
+<a href="https://devdocs.io/html">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</a>
+<a href="https://devdocs.io/css">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</a>
+<a href="https://devdocs.io/javascript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</a>
+<a href="https://www.php.net/docs.php">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+</a>
+
+> System or Backend
+<a href="https://en.cppreference.com/w/c">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+</a>
+<a href="https://golang.org/doc">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+</a>
+<a href="https://docs.oracle.com/en/java/javase/11">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+</a>
+<a href="https://kotlinlang.org/docs/home.html">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+</a>
+<a href="https://docs.scala-lang.org/">
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
+</a>
+<a href="https://docs.python.org/3">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</a>
+<a href="https://www.ruby-lang.org/en/">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"/>
+</a>
+<a href="https://nodejs.org/en/docs">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+</a>
+<a href="https://www.typescriptlang.org/docs">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+</a>
+
+> Application
+<a href="https://dart.dev/guides">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</a>
+<a href="https://kotlinlang.org/docs/home.html">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+</a>
+<a href="https://developer.apple.com/swift">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+</a>
+
+## HATE THINGS
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
+<img style="margin: 10px" src="https://forums.skunity.com/styles/default/xenforo/logo.og.png" alt="Skript" height="50" />
