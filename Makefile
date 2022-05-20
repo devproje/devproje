@@ -8,5 +8,5 @@ $(target): $(obj)
 main.o: main.c
 	$(cc) -c -o main.o main.c
 
-clear:
+clean:
 	rm $(obj) $(target)

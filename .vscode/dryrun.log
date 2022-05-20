@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/projecttl/Sources/devproje'
+make: `profile.out' is up to date.
+make: Leaving directory `/Users/projecttl/Sources/devproje'
+ 
