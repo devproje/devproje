@@ -99,8 +99,11 @@ Hello, World!
 <a href="https://code.visualstudio.com">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 </a>
-<a href="https://code.visualstudio.com">
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white">
+<a id='code_items' href="https://www.vim.org/">
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
+</a>
+<a id='code_items' href="https://neovim.io/">
+  <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=NeoVim&logoColor=white"/>
 </a>
 <br/>
 
