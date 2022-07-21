@@ -15,9 +15,10 @@ int main(int argc, char **argv) {
 }
 ```
 ```sh
-~$ gcc -o message main.c
-~$ ./message 'Hello, World!'
+[projecttl@fedora ~]$ make
+[projecttl@fedora ~]$ ./message 'Hello, World!'
 Hello, World!
+[projecttl@fedora ~]$
 ```
 <br/>
 
