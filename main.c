@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 #define MAX_STRING_SIZE 50
 
@@ -12,7 +14,7 @@ struct person {
 int main(int argc, char **argv) {
     struct person *project = malloc(sizeof(struct person));
     strcpy(project->name, "Project_TL");
-    strcpy(project->job, "Student");
+    strcpy(project->job, "Student, Backend Developer");
     strcpy(project->email, "me@projecttl.net");
     project->age = 18;
   
