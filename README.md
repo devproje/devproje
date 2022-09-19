@@ -42,10 +42,6 @@ Hello, World!
 <a href="https://www.youtube.com/channel/UCbFF-pr6prqOLUFbwJEZ16g">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white">
 </a>
-<a href="https://twitch.tv/Project_TL">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/>
-</a>
-<br/>
 <br/>
 
 ## Github Stats  
@@ -54,13 +50,17 @@ Hello, World!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&theme=dark&hide_border=true&layout=compact" align="center" />
   <br/>
 </div>
+<br/>
 
-## Using Tools and Languages
+## Using Languages
 <a href="https://en.cppreference.com/w/c">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 </a>
 <a href="https://golang.org/doc">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+</a>
+<a href="https://www.rust-lang.org/">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 </a>
 <a href="https://kotlinlang.org/docs/home.html">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -71,28 +71,11 @@ Hello, World!
 <a href="https://nodejs.org/en/docs">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </a>
-<a href="https://www.typescriptlang.org/docs">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-</a>
-
-<a href="https://dart.dev/guides">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-</a>
-<a href="https://flutter.dev/">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-</a>
 <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </a>
-<a href="https://www.jetbrains.com/teamcity">
-  <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=TeamCity&logoColor=white">
-</a>
 <a href="https://svelte.dev/">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
-</a>
-
-<a href="https://mariadb.org/">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> 
 </a>
 <a href="https://www.mongodb.com/">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
