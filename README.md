@@ -77,6 +77,9 @@ Hello, World!
 <a href="https://svelte.dev/">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
 </a>
+<a href="https://mariadb.org/">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> 
+</a>
 <a href="https://www.mongodb.com/">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </a>
