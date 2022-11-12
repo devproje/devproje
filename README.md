@@ -1,22 +1,15 @@
-```c
-// main.c
-#include <stdio.h>
-#include <stdlib.h>
+```go
+package main
 
-#define MAX_MESSAGE_SIZE 30
+import "fmt"
 
-int main(int argc, char **argv) {
-  char *str = malloc(sizeof(char) * MAX_MESSAGE_SIZE);
-  str = argv[1];
-  puts(str);
-  free(str);
-
-  return 0;
+func main() {
+  fmt.Println("Hello, World!")
 }
 ```
 ```sh
-[projecttl@fedora ~]$ gcc -o a.out main.c
-[projecttl@fedora ~]$ ./a.out 'Hello, World!'
+[projecttl@fedora ~]$ go build -o profile main.go
+[projecttl@fedora ~]$ ./profile
 Hello, World!
 [projecttl@fedora ~]$
 ```
