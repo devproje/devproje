@@ -18,7 +18,7 @@ Hello, World!
 ### <div align="center">I'm Project_TL, A student developer 👨‍💻 working since 2015 🚀</div>
 
 - 🔭 I’m currently working on [Cube Connect](https://github.com/cube1dev)
-- 🌱 I’m currently learning Rust, Unity
+- 🌱 I’m currently learning Nothing
 - ❓ Ask me about anything related to Minecraft Server Bukkit API
 - ⚡ Fun fact:
   - C not have bool type.(If not including stdbool.h)
