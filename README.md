@@ -15,7 +15,7 @@ Hello, World!
 ```
 <br/>
 
-### <div align="center">I'm Project_TL, A student developer 👨‍💻 working since 2015 🚀</div>
+### <div align="center">I'm Project_TL, A backend developer 👨‍💻 working since 2015 🚀</div>
 
 - 🔭 I’m currently working on [Cube Connect](https://github.com/cube1dev)
 - 🌱 I’m currently learning Nothing
