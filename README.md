@@ -17,7 +17,7 @@ Hello, World!
 
 ### <div align="center">I'm Project_TL, A backend developer 👨‍💻 working since 2015 🚀</div>
 
-- 🔭 I’m currently working on [Cube Connect](https://github.com/cube1dev)
+- 🔭 I’m currently working on [Project_TL's Official Workspace](https://github.com/project-official)
 - 🌱 I’m currently learning Nothing
 - ❓ Ask me about anything related to Minecraft Server Bukkit API
 - ⚡ Fun fact:
@@ -57,9 +57,6 @@ Hello, World!
 </a>
 <a href="https://kotlinlang.org/docs/home.html">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-</a>
-<a href="https://docs.scala-lang.org/">
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
 </a>
 <a href="https://nodejs.org/en/docs">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
