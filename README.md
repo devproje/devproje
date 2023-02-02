@@ -58,6 +58,9 @@ Hello, World!
 <a href="https://kotlinlang.org/docs/home.html">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 </a>
+<a href="https://www.scala-lang.org">
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
+</a>
 <a href="https://nodejs.org/en/docs">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </a>
