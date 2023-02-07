@@ -1,14 +1,13 @@
-```go
-package main
+```c
+#include <stdio.h>
 
-import "fmt"
-
-func main() {
-  fmt.Println("Hello, World!")
+int main(int argc, char **argv) {
+  printf("Hello, World!");
+  return 0;
 }
 ```
 ```sh
-[projecttl@fedora ~]$ go build -o profile main.go
+[projecttl@fedora ~]$ gcc -o a.out main.c
 [projecttl@fedora ~]$ ./profile
 Hello, World!
 [projecttl@fedora ~]$
