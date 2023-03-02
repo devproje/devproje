@@ -17,7 +17,7 @@ Hello, World!
 ### <div align="center">I'm Project_IO, A backend developer 👨‍💻 working since 2015 🚀</div>
 
 - 🔭 I’m currently working on [Project_IO's Official Workspace](https://github.com/project-official)
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning React.js
 - ❓ Ask me about anything related to Minecraft Server Bukkit API
 - ⚡ Fun fact:
   - C not have bool type.(If not including stdbool.h)
