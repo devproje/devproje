@@ -20,7 +20,6 @@ Hello, World!
 - 🌱 I’m currently learning Ruby
 - ❓ Ask me about anything related to Minecraft Server Bukkit API
 - ⚡ Fun fact:
-  - C not have bool type.(If not including stdbool.h)
   - HTML is **not** programming language.
 <br/>
 
