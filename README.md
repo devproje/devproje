@@ -36,12 +36,9 @@ Hello, World!
 <br/>
 
 ## Github Stats  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&theme=dark&hide_border=true&layout=compact" align="center" />
-  <br/>
-</div>
+![devproje's github status](https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=default&count_private=true)
 <br/>
+![devproje's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&theme=default&layout=compact)
 
 ## Using Languages
 <a href="https://en.cppreference.com/w/c">
