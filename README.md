@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-  printf("Hello, World!");
+  printf("Hello, World!\n");
   return 0;
 }
 ```
@@ -17,8 +17,8 @@ Hello, World!
 ### <div align="center">I'm Project_IO, A backend developer 👨‍💻 working since 2015 🚀</div>
 
 - 🔭 I’m currently working on [Project_IO's Official Workspace](https://github.com/project-official)
-- 🌱 I’m currently learning SvelteKit
-- ❓ Ask me about anything related to Minecraft Server Bukkit API and Golang
+- 🌱 I’m currently learning Next.js
+- ❓ Ask me about anything related to Linux and Docker
 - ⚡ Fun fact:
   - HTML is **not** programming language.
 <br/>
@@ -61,6 +61,9 @@ Hello, World!
 </a>
 <a href="https://svelte.dev/">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
+</a>
+<a href="https://nextjs.org/docs/getting-started">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </a>
 </a>
 <a href="https://www.docker.com/">
