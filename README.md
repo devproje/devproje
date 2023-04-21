@@ -6,7 +6,7 @@ int main(int argc, char **argv) {
   return 0;
 }
 ```
-```sh
+```bash
 [projecttl@fedora ~]$ gcc -o a.out main.c
 [projecttl@fedora ~]$ ./a.out
 Hello, World!
@@ -22,6 +22,9 @@ Hello, World!
 - ⚡ Fun fact:
   - HTML is **not** programming language.
 <br/>
+
+## Services
+Comming soon
 
 ## Connect with me
 <a href="https://github.com/devproje">
