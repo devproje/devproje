@@ -24,7 +24,6 @@ Hello, World!
 <br/>
 
 ## Services
-Comming soon
 
 ## Connect with me
 <a href="https://github.com/devproje">
