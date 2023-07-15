@@ -17,10 +17,11 @@ Hello, World!
 ### <div align="center">I'm Project_IO, A backend developer 👨‍💻 working since 2015 🚀</div>
 
 - 🔭 I’m currently working on [Project_IO's Official Workspace](https://github.com/project-official)
-- 🌱 I’m currently learning Nothing
-- ❓ Ask me about anything related to Linux and Docker
+- 🌱 I’m currently learning PHP
+- ❓ Ask me about anything related to Linux
 - ⚡ Fun fact:
   - HTML is **not** programming language.
+  - Lua array is started from 1.
 <br/>
 
 ## Services
