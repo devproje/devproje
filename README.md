@@ -8,10 +8,10 @@ int main(int argc, char **argv)
 }
 ```
 ```bash
-[projecttl@fedora ~]$ gcc -o a.out main.c
-[projecttl@fedora ~]$ ./a.out
+[projecttl@fedora:~$ gcc -o a.out main.c
+[projecttl@fedora:~$ ./a.out
 Hello, World!
-[projecttl@fedora ~]$
+[projecttl@fedora:~$
 ```
 <br/>
 
