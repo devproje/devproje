@@ -21,9 +21,7 @@ Hello, World!
 - 🌱 I’m currently learning Nothing
 - ❓ Ask me about anything related to Linux, Minecraft Plugin
 - ⚡ Fun fact:
-  - HTML is **not** programming language.
-  - Lua array is started from 1.
-<br/>
+  - HTML is **not** programming language.<br/>
 
 ## Services
 
