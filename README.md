@@ -18,7 +18,7 @@ Hello, World!
 ### <div align="center">I'm Project_IO, A backend developer 👨‍💻 working since 2015 🚀</div>
 
 - 🔭 I’m currently working on [Project_IO's Official Workspace](https://github.com/project-official)
-- 🌱 I’m currently learning Nothing
+- 🌱 I’m currently learning Android
 - ❓ Ask me about anything related to Linux, Minecraft Plugin
 - ⚡ Fun fact:
   - HTML is **not** programming language.<br/>
@@ -61,9 +61,6 @@ Hello, World!
 <a href="https://nodejs.org/en/docs">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 </a>
-<a href="https://svelte.dev/">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
-</a>
 <a href="https://nextjs.org/docs/getting-started">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </a>
@@ -79,8 +76,5 @@ Hello, World!
 </a>
 <a href="https://mariadb.org/">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> 
-</a>
-<a href="https://www.mongodb.com/">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </a>
 <br/>
