@@ -12,7 +12,7 @@ type Person struct {
 }
 
 func main() {
-    raw := []byte(`{"name":"Project_IO","age":"20"}`)
+    raw := []byte(`{"name":"Project_IO","age":20}`)
 
     var data Person
     err := json.Unmarshal(raw, &data)
@@ -20,7 +20,7 @@ func main() {
         panic(err)
     }
 
-    fmt.Printf("NAME: %s\nAGE: %s\n", data.Name, data.Age)
+    fmt.Printf("NAME: %s\nAGE: %d\n", data.Name, data.Age)
 }
 ```
 ```bash
