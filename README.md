@@ -22,7 +22,7 @@ func main() {
 
     fmt.Printf("NAME: %s\nAGE: %s\n", data.Name, data.Age)
 }
-
+```
 ```bash
 projecttl@fedora:~$ go run main.go
 NAME: Project_IO
