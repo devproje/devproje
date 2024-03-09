@@ -1,17 +1,33 @@
-```c
-#include <stdio.h>
+```go
+package main
 
-int main(int argc, char **argv)
-{
-    printf("Hello, World!\n");
-    return 0;
+import (
+    "fmt"
+    "encoding/json"
+)
+
+type Person struct {
+    Name string `json:"name"`
+    Age  int    `json:"age"`
 }
-```
+
+func main() {
+    raw := []byte(`{"name":"Project_IO","age":"20"}`)
+
+    var data Person
+    err := json.Unmarshal(raw, &data)
+    if err != nil {
+        panic(err)
+    }
+
+    fmt.Printf("NAME: %s\nAGE: %s\n", data.Name, data.Age)
+}
+
 ```bash
-[projecttl@fedora:~$ gcc -o a.out main.c
-[projecttl@fedora:~$ ./a.out
-Hello, World!
-[projecttl@fedora:~$
+projecttl@fedora:~$ go run main.go
+NAME: Project_IO
+AGE: 20
+projecttl@fedora:~$
 ```
 <br/>
 
