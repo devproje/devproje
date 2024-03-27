@@ -13,7 +13,7 @@ struct person {
 
 int main(int argc, char **argv) {
     struct person *project = malloc(sizeof(struct person));
-    strcpy(project->name, "Project_TL");
+    strcpy(project->name, "Project_IO");
     strcpy(project->job, "Student, Backend Developer");
     strcpy(project->email, "me@projecttl.net");
     project->age = 18;
