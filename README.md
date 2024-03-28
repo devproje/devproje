@@ -24,18 +24,10 @@
 </div>
 
 ## 📃 Github Stats
-<div align="center">
-  <picture>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=default&count_private=true"
-      alt=""
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&theme=default&layout=compact"
-      alt=""
-    />
-  </picture>
-</div>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=default&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&theme=default&layout=compact" />
+</picture>
 
 ## 🔧 Skills
 <table align="center">
