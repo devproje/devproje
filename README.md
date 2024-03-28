@@ -23,13 +23,14 @@
   </a>
 </div>
 
-## 📃 Github Stats
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=default&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&theme=default&layout=compact" />
-</picture>
+## 🔧 Github Stats & Skills
+<div align="center">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=default&count_private=true" />
+  </picture>
+</div>
+<br/>
 
-## 🔧 Skills
 <table align="center">
   <tr>
     <th>Language</th>
