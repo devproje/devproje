@@ -29,13 +29,11 @@
     <img
       style="margin: 10px 0"
       src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=default&count_private=true"
-      width=400
       alt=""
     />
     <img
       style="margin: 10px 0"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&theme=default&layout=compact"
-      width=400
       alt=""
     />
   </picture>
