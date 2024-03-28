@@ -25,7 +25,7 @@
 
 ## 📃 Github Stats
 <div align="center">
-  <picture align="center">
+  <picture>
     <img
       src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=default&count_private=true"
       alt=""
