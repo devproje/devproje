@@ -1,3 +1,5 @@
+<img src="https://github.com/devproje/devproje/blob/master/img/banner.png" alt="" />
+
 ## 🚧 Projects
 - Minecraft Kotlin Paper GUI Library: [InventoryGUI](https://github.com/devproje/InventoryGUI)
 - Simple Chatting application
