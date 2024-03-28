@@ -24,16 +24,14 @@
 </div>
 
 ## 📃 Github Stats
-<div align="center">
-  <picture>
+<div align="center" style="width: 100%">
+  <picture align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=default&count_private=true"
-      width=400
       alt=""
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&theme=default&layout=compact"
-      width=400
       alt=""
     />
   </picture>
