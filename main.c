@@ -4,27 +4,28 @@
 
 #define MAX_STRING_SIZE 50
 
-struct person {
-    char name[MAX_STRING_SIZE];
-    char email[MAX_STRING_SIZE];
-    char job[MAX_STRING_SIZE];
-    int age;
-};
+typedef struct {
+        char name[MAX_STRING_SIZE];
+        char email[MAX_STRING_SIZE];
+        char job[MAX_STRING_SIZE];
+        int age;
+} Person;
 
-int main(int argc, char **argv) {
-    struct person *project = malloc(sizeof(struct person));
-    strcpy(project->name, "Project_IO");
-    strcpy(project->job, "Student, Backend Developer");
-    strcpy(project->email, "me@projecttl.net");
-    project->age = 18;
-  
-    puts(strcat(project->name, "'s Profile:"));
-    printf("\tname:  %s\n", project->name);
-    printf("\tage:   %d\n", project->age);
-    printf("\tjob:   %s\n", project->job);
-    printf("\temail: %s\n", project->email);
+int main(int argc, char **argv)
+{
+        Person *project = malloc(sizeof(Person));
+        strcpy(project->name, "Project_IO");
+        strcpy(project->job, "Student, Backend Developer");
+        strcpy(project->email, "me@projecttl.net");
+        project->age = 20;
+
+        printf("%s's Profile\n", project->name);
+        printf("\tname:  %s\n", project->name);
+        printf("\tage:   %d\n", project->age);
+        printf("\tjob:   %s\n", project->job);
+        printf("\temail: %s\n", project->email);
     
-    free(project);
+        free(project);
 
-    return 0;
+        return 0;
 }
