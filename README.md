@@ -24,7 +24,7 @@
 </div>
 
 ## 📃 Github Stats
-<div align="center" style="width: 100%">
+<div align="center">
   <picture align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=devproje&show_icons=true&theme=default&count_private=true"
