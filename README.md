@@ -1,4 +1,4 @@
-<img src="https://github.com/devproje/devproje/blob/master/img/banner.png" alt="" />
+F<img src="https://github.com/devproje/devproje/blob/master/img/banner.png" alt="" />
 
 ## 🚧 Projects
 - Minecraft Kotlin Paper GUI Library: [InventoryGUI](https://github.com/devproje/InventoryGUI)
@@ -88,8 +88,8 @@
       </a>
     </td>
     <td>
-      <a style="text-decoration: none; margin: 0 2px" href="https://fastapi.tiangolo.com/">
-        <img src="https://skillicons.dev/icons?i=fastapi" />
+      <a style="text-decoration: none; margin: 0 2px" href="https://flask.palletsprojects.com/en/3.0.x/">
+        <img src="https://skillicons.dev/icons?i=flask" />
       </a>
       <a style="text-decoration: none; margin: 0 2px" href="https://www.jetbrains.com/idea/">
         <img src="https://skillicons.dev/icons?i=idea" />
