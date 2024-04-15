@@ -5,7 +5,6 @@
 - Simple Chatting application
   - Frontend: [simple-chat-frontend](https://github.com/devproje/simple-chat-frontend)
   - Backend: [simple-chat](https://github.com/devproje/simple-chat)
-- Golang discord bot extender for discordgo: [kuma-engine](https://github.com/devproje/kuma-engine-v2)
 ## 🔗 Connect with me
 <div align="center" style="margin: 10px 0">
   <a style="text-decoration: none; margin: 0 2px" href="https://github.com/devproje">
