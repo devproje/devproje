@@ -1,2 +1,2 @@
-## 공사중인 README 입니다.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devproje&layout=compact)
+# 저장소 이사함
+(WH64's GitLab)[https://gitlab.wh64.net/devproje]
