@@ -1,2 +1,3 @@
 # 저장소 이사함
-[WH64's GitLab](https://gitlab.wh64.net/devproje)
+### 조만간 공사 예정
+[WH64's Forgejo](https://git.wh64.net/devproje)
