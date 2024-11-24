@@ -17,6 +17,12 @@
 			"description": "파이썬으로 만든 가계부 시스템 - 백엔드",
 			"languages": ["python"],
 			"url": "https://git.wh64.net/devproje/balance-application"
+		},
+		{
+			"name": "Carbonium",
+			"description": "마인크래프트 서버 실행기 코어 (Current Private)",
+			"languages": ["golang"],
+			"url": "https://github.com/carbonium-community/carbonium"
 		}
 	],
 	"histories": [
