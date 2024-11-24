@@ -2,27 +2,19 @@
 	"projects": [
 		{
 			"name": "InventoryGUI",
-			"description": "This is Minecraft paper gui API",
-			"languages": ["kotlin"],
-			"url": "https://github.com/project-official/InventoryGUI"
+			"owner": "project-official"
 		},
 		{
-			"name": "Px32 Bot",
-			"description": "Kotlin Discord Bot deployer for JDA",
-			"languages": ["kotlin"],
-			"url": "https://github.com/devproje/px32-bot"
+			"name": "px32-bot",
+			"owner": "devproje"
 		},
 		{
-			"name": "Balance Application",
-			"description": "파이썬으로 만든 가계부 시스템 - 백엔드",
-			"languages": ["python"],
-			"url": "https://git.wh64.net/devproje/balance-application"
+			"name": "balance-application",
+			"owner": "devproje"
 		},
 		{
-			"name": "Carbonium",
-			"description": "마인크래프트 서버 실행기 코어 (Current Private)",
-			"languages": ["golang"],
-			"url": "https://github.com/carbonium-community/carbonium"
+			"name": "carbonium",
+			"owner": "carbonium-community"
 		}
 	],
 	"histories": [
