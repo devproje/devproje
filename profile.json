@@ -78,6 +78,11 @@
 					"name": "AngelHack Seoul",
 					"date": "Aug 24~25 Sun",
 					"type": "competition"
+				},
+				{
+					"name": "DDD Seoul",
+					"date": "Dec 07 Sat",
+					"type": "conference"
 				}
 			]
 		}
