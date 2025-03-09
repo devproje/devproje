@@ -3,3 +3,4 @@
 <br />
 <a href="https://projecttl.net">Personal Website</a>
 <br />
+<a href="https://projecttl.net/timeline">Timeline</a>
