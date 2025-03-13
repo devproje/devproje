@@ -1,4 +1,4 @@
-# 공사중
+# 공사중 - 리뉴얼 예정
 <a href="https://git.wh64.net/devproje">Personal Forgejo</a>
 <br />
 
