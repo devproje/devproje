@@ -9,14 +9,14 @@ interface ThemeProps {
 }
 
 const useTheme = create<ThemeProps>()(persist(
-    (set) => ({
-        theme: "system",
-        setTheme: (theme) => set({ theme: theme })
-    }),
-    {
-        name: "theme",
-        storage: createJSONStorage(() => localStorage),
-    }
+	(set) => ({
+		theme: "system",
+		setTheme: (theme) => set({ theme: theme })
+	}),
+	{
+		name: "vite-ui-theme",
+		storage: createJSONStorage(() => localStorage),
+	}
 ));
 
 export default useTheme;
