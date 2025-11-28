@@ -11,6 +11,7 @@ function ThemeProvider({ children }: { children: ReactNode }) {
 		if (theme.theme === "system") {
 			const system = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 			root.classList.add(system);
+			theme.setTheme(system);
 
 			return;
 		}
@@ -26,3 +27,4 @@ function ThemeProvider({ children }: { children: ReactNode }) {
 }
 
 export default ThemeProvider;
+

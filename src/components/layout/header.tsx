@@ -1,5 +1,6 @@
 import logo from "@/assets/goggle.png";
 import ThemeToggler from "../custom/theme-toggler";
+import { Link } from "react-router";
 
 function Logo() {
 	return (
@@ -9,12 +10,14 @@ function Logo() {
 	);
 }
 
-function LeftItems() {
+function HeaderItems() {
 	return (
-		<div className="left-items">
-			<Logo />
+		<div className="header-items">
 			<div className="nav-items">
+				<Link to={"/"}>Home</Link>
 			</div>
+
+			<ThemeToggler />
 		</div>
 	);
 }
@@ -22,8 +25,8 @@ function LeftItems() {
 function Header() {
 	return (
 		<nav className="flex flex-row navbar bg-background text-foreground">
-			<LeftItems />
-			<ThemeToggler />
+			<Logo />
+			<HeaderItems />
 		</nav>
 	);
 }

@@ -5,16 +5,14 @@ import { Moon, Sun, SunMoon } from "lucide-react";
 
 function ThemeToggler() {
 	const theme = useTheme();
-
-	function onClick(ev: MouseEvent): void {
+	const click = (ev: MouseEvent): void => {
 		ev.preventDefault();
-
 		theme.setTheme(theme.theme === "dark" ? "light" : "dark");
-	}
+	};
 
 	return (
 		<>
-			<Toggle variant={"outline"} onClick={onClick}>
+			<Toggle variant={"outline"} onClick={click}>
 				{theme.theme === "system" ? <SunMoon /> : theme.theme === "dark" ? <Sun /> : <Moon />}
 			</Toggle>
 		</>

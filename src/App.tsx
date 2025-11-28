@@ -1,130 +1,17 @@
-import GeneralView from "@/components/layout/GeneralView";
+import { BrowserRouter, Route, Routes } from "react-router";
+import GeneralView from "@/components/layout/general-view";
+import Home from "@/components/page/home";
 import "./App.scss";
 
 function App() {
 	return (
-		<GeneralView>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-			<p>This is Sample text for auto generated</p>
-		</GeneralView>
+		<BrowserRouter>
+			<Routes>
+				<Route element={<GeneralView />}>
+					<Route path="/" index element={<Home />} />
+				</Route>
+			</Routes>
+		</BrowserRouter>
 	);
 }
 
