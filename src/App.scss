@@ -45,6 +45,11 @@
 			a {
 				margin-right: 1rem;
 			}
+
+			.header-services {
+				cursor: pointer !important;
+				margin-right: 1rem;
+			}
 		}
 	}
 }
@@ -118,9 +123,15 @@
 	}
 }
 
-.section {
+.main-section {
 	display: flex;
 	margin: 4rem 0;
+	flex-direction: column;
+}
+
+.section {
+	display: flex;
+	margin: 2rem 0;
 	flex-direction: column;
 
 	.section-title {
