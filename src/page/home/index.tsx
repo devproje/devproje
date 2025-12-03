@@ -35,10 +35,7 @@ function HeroSection() {
 					<Button className="btn-gap" onClick={() => window.open("https://github.com/devproje", "_blank")}>
 						<GitBranch size={24} /> Go to Github
 					</Button>
-					<Button variant={"secondary"} onClick={ev => {
-						ev.preventDefault();
-						nav("/contact");
-					}}>
+					<Button variant={"secondary"} onClick={() => nav("/contact")}>
 						<Contact size={24} /> Contact with me
 					</Button>
 				</div>

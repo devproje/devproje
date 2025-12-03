@@ -1,12 +1,11 @@
-import { Link } from "react-router";
+import { Link, useLocation } from "react-router";
 import logo from "@/assets/goggle.png";
 import ThemeToggler from "../ui/theme-toggler";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuGroup, DropdownMenuItem, DropdownMenuTrigger } from "../ui/dropdown-menu";
 
 interface CurrentProps {
-	current: string;
 	href: string;
-	t: string;
+	title: string;
 }
 
 function Logo() {
@@ -18,40 +17,46 @@ function Logo() {
 }
 
 function Current(props: CurrentProps) {
-	console.log(props.current);
+	const location = useLocation();
 
 	return (
 		<Link to={props.href}>
-			{props.current === props.href ? (<b>{props.t}</b>) : props.t}
+			{location.pathname === props.href ? (<b>{props.title}</b>) : props.title}
 		</Link>
 	);
 }
 
 function HeaderItems() {
-	const current = location.pathname;
-
 	return (
 		<div className="header-items">
 			<div className="nav-items">
-				<Current current={current} href="/" t="Home" />
-				<Current current={current} href="/contact" t="Contact" />
+				<Current href="/" title="Home" />
+				<Current href="/contact" title="Contact" />
 				<DropdownMenu>
 					<DropdownMenuTrigger asChild>
-						<div className="header-services">Service</div>
+						<button className="header-services">Service</button>
 					</DropdownMenuTrigger>
 					<DropdownMenuContent className="w-48" align="center">
 						<DropdownMenuGroup>
-							<DropdownMenuItem onClick={() => window.open("https://blog.wh64.net", "_blank")}>
-								Blog
+							<DropdownMenuItem asChild>
+								<a href="https://blog.wh64.net" target="_blank" rel="noopener noreferrer">
+									Blog
+								</a>
 							</DropdownMenuItem>
-							<DropdownMenuItem onClick={() => window.open("https://mirror.tpr.kr", "_blank")}>
-								TPR Mirror
+							<DropdownMenuItem asChild>
+								<a href="https://mirror.tpr.kr" target="_blank" rel="noopener noreferrer">
+									TPR Mirror
+								</a>
 							</DropdownMenuItem>
-							<DropdownMenuItem onClick={() => window.open("https://git.wh64.net", "_blank")}>
-								WSERVER Git
+							<DropdownMenuItem asChild>
+								<a href="https://git.wh64.net" target="_blank" rel="noopener noreferrer">
+									WSERVER Git
+								</a>
 							</DropdownMenuItem>
-							<DropdownMenuItem onClick={() => window.open("https://sso.wh64.net", "_blank")}>
-								WSERVER SSO
+							<DropdownMenuItem asChild>
+								<a href="https://sso.wh64.net" target="_blank" rel="noopener noreferrer">
+									WSERVER SSO
+								</a>
 							</DropdownMenuItem>
 						</DropdownMenuGroup>
 					</DropdownMenuContent>
