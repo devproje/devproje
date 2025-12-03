@@ -1,8 +1,8 @@
 import { BrowserRouter, Route, Routes } from "react-router";
 import GeneralView from "@/components/layout/general-view";
-import Home from "@/components/page/home";
+import Contact from "@/page/contact";
+import Home from "@/page/home";
 import "./App.scss";
-import Contact from "./components/page/contact";
 
 function App() {
 	return (

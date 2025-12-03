@@ -94,7 +94,6 @@
 		display: flex;
 		line-height: 1.4;
 		margin-top: 0.5rem;
-		margin-bottom: 1.5rem;
 		justify-content: center;
 		@media (min-width: 780px) {
 			justify-content: flex-start;
@@ -158,9 +157,22 @@
 	}
 }
 
+#stacks {
+	.stack-badge {
+		margin-right: 0.25rem;
+	}
+}
+
 .stacks-tmi {
 	padding: 0 1rem;
-	list-style: disc !important;
+
+	li {
+		margin: 0.4rem 0;
+	}
+
+	.list-circle {
+		list-style: circle !important;
+	}
 }
 
 button {

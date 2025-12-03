@@ -18,7 +18,7 @@ function IconLink({ href, icon, name }: { href: string; icon: JSX.Element; name?
 function Contact() {
 	return (
 		<div className="flex flex-col items-center main-section">
-			<h2 className="text-3xl mb-2">
+			<h2 className="text-4xl mb-2">
 				<b>Contact</b>
 			</h2>
 			<p className="mb-4">아래의 아이콘을 클릭하여 저와 연락을 해보세요!</p>

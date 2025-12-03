@@ -1,7 +1,13 @@
+import { Link } from "react-router";
 import logo from "@/assets/goggle.png";
-import ThemeToggler from "../custom/theme-toggler";
-import { Link, useNavigate } from "react-router";
-import { DropdownMenu, DropdownMenuContent, DropdownMenuGroup, DropdownMenuItem, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuTrigger } from "../ui/dropdown-menu";
+import ThemeToggler from "../ui/theme-toggler";
+import { DropdownMenu, DropdownMenuContent, DropdownMenuGroup, DropdownMenuItem, DropdownMenuTrigger } from "../ui/dropdown-menu";
+
+interface CurrentProps {
+	current: string;
+	href: string;
+	t: string;
+}
 
 function Logo() {
 	return (
@@ -11,66 +17,41 @@ function Logo() {
 	);
 }
 
+function Current(props: CurrentProps) {
+	console.log(props.current);
+
+	return (
+		<Link to={props.href}>
+			{props.current === props.href ? (<b>{props.t}</b>) : props.t}
+		</Link>
+	);
+}
+
 function HeaderItems() {
-	const nav = useNavigate();
+	const current = location.pathname;
 
 	return (
 		<div className="header-items">
 			<div className="nav-items">
-				<Link to={"/"}>Home</Link>
-				<Link to={"/contact"}>Contact</Link>
+				<Current current={current} href="/" t="Home" />
+				<Current current={current} href="/contact" t="Contact" />
 				<DropdownMenu>
 					<DropdownMenuTrigger asChild>
-						<div className="header-services">Services</div>
+						<div className="header-services">Service</div>
 					</DropdownMenuTrigger>
 					<DropdownMenuContent className="w-48" align="center">
-						<DropdownMenuLabel>Public Service</DropdownMenuLabel>
 						<DropdownMenuGroup>
-							<DropdownMenuItem onClick={ev => {
-								ev.preventDefault();
-								nav("https://blog.wh64.net");
-							}}>
-								Personal Blog
+							<DropdownMenuItem onClick={() => window.open("https://blog.wh64.net", "_blank")}>
+								Blog
 							</DropdownMenuItem>
-							<DropdownMenuItem onClick={ev => {
-								ev.preventDefault();
-								nav("https://git.wh64.net");
-							}}>
-								WSERVER Forgejo
+							<DropdownMenuItem onClick={() => window.open("https://mirror.tpr.kr", "_blank")}>
+								TPR Mirror
 							</DropdownMenuItem>
-							<DropdownMenuItem onClick={ev => {
-								ev.preventDefault();
-								nav("https://sso.wh64.net");
-							}}>
+							<DropdownMenuItem onClick={() => window.open("https://git.wh64.net", "_blank")}>
+								WSERVER Git
+							</DropdownMenuItem>
+							<DropdownMenuItem onClick={() => window.open("https://sso.wh64.net", "_blank")}>
 								WSERVER SSO
-							</DropdownMenuItem>
-						</DropdownMenuGroup>
-						<DropdownMenuSeparator />
-						<DropdownMenuLabel>Private Service</DropdownMenuLabel>
-						<DropdownMenuGroup>
-							<DropdownMenuItem onClick={ev => {
-								ev.preventDefault();
-								nav("https://ci.wh64.net");
-							}}>
-								TeamCity CI/CD
-							</DropdownMenuItem>
-							<DropdownMenuItem onClick={ev => {
-								ev.preventDefault();
-								nav("https://dash.wh64.net");
-							}}>
-								Grafana Panel
-							</DropdownMenuItem>
-							<DropdownMenuItem onClick={ev => {
-								ev.preventDefault();
-								nav("https://panel.wh64.net");
-							}}>
-								PufferPanel
-							</DropdownMenuItem>
-							<DropdownMenuItem onClick={ev => {
-								ev.preventDefault();
-								nav("https://repo.wh64.net");
-							}}>
-								WSERVER Nexus Repo
 							</DropdownMenuItem>
 						</DropdownMenuGroup>
 					</DropdownMenuContent>
