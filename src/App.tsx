@@ -1,8 +1,9 @@
 import { BrowserRouter, Route, Routes } from "react-router";
 import GeneralView from "@/components/layout/general-view";
-import Contact from "@/page/contact";
+import BioLink from "@/page/link";
 import Home from "@/page/home";
 import "./App.scss";
+import WSERVER from "./page/wserver";
 
 function App() {
 	return (
@@ -10,8 +11,9 @@ function App() {
 			<Routes>
 				<Route element={<GeneralView />}>
 					<Route path="/" index element={<Home />} />
-					<Route path="/contact" element={<Contact />} />
+					<Route path="/wserver" element={<WSERVER />} />
 				</Route>
+				<Route path="/link" element={<BioLink />} />
 			</Routes>
 		</BrowserRouter>
 	);

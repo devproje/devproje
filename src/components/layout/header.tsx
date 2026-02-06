@@ -26,41 +26,48 @@ function Current(props: CurrentProps) {
 	);
 }
 
+function ServiceDropdown() {
+	return (
+		<DropdownMenu>
+			<DropdownMenuTrigger asChild>
+				<button className="header-services">Service</button>
+			</DropdownMenuTrigger>
+			<DropdownMenuContent className="w-48" align="center">
+				<DropdownMenuGroup>
+					<DropdownMenuItem asChild>
+						<a href="https://blog.projecttl.net" target="_blank" rel="noopener noreferrer">
+							Blog
+						</a>
+					</DropdownMenuItem>
+					<DropdownMenuItem asChild>
+						<a href="https://mirror.tpr.kr" target="_blank" rel="noopener noreferrer">
+							TPR Mirror
+						</a>
+					</DropdownMenuItem>
+					<DropdownMenuItem asChild>
+						<a href="https://git.wh64.net" target="_blank" rel="noopener noreferrer">
+							WSERVER Git
+						</a>
+					</DropdownMenuItem>
+					<DropdownMenuItem asChild>
+						<a href="https://sso.wh64.net" target="_blank" rel="noopener noreferrer">
+							WSERVER SSO
+						</a>
+					</DropdownMenuItem>
+				</DropdownMenuGroup>
+			</DropdownMenuContent>
+		</DropdownMenu>
+	);
+}
+
 function HeaderItems() {
 	return (
 		<div className="header-items">
 			<div className="nav-items">
 				<Current href="/" title="Home" />
-				<Current href="/contact" title="Contact" />
-				<DropdownMenu>
-					<DropdownMenuTrigger asChild>
-						<button className="header-services">Service</button>
-					</DropdownMenuTrigger>
-					<DropdownMenuContent className="w-48" align="center">
-						<DropdownMenuGroup>
-							<DropdownMenuItem asChild>
-								<a href="https://blog.wh64.net" target="_blank" rel="noopener noreferrer">
-									Blog
-								</a>
-							</DropdownMenuItem>
-							<DropdownMenuItem asChild>
-								<a href="https://mirror.tpr.kr" target="_blank" rel="noopener noreferrer">
-									TPR Mirror
-								</a>
-							</DropdownMenuItem>
-							<DropdownMenuItem asChild>
-								<a href="https://git.wh64.net" target="_blank" rel="noopener noreferrer">
-									WSERVER Git
-								</a>
-							</DropdownMenuItem>
-							<DropdownMenuItem asChild>
-								<a href="https://sso.wh64.net" target="_blank" rel="noopener noreferrer">
-									WSERVER SSO
-								</a>
-							</DropdownMenuItem>
-						</DropdownMenuGroup>
-					</DropdownMenuContent>
-				</DropdownMenu>
+				<Current href="/link" title="BioLink" />
+				<ServiceDropdown />
+				<Current href="/wserver" title="WSERVER" />
 			</div>
 
 			<ThemeToggler />

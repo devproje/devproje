@@ -66,6 +66,9 @@
 	--radius-md: calc(var(--radius) - 2px);
 	--radius-lg: var(--radius);
 	--radius-xl: calc(var(--radius) + 4px);
+	--radius-2xl: calc(var(--radius) + 8px);
+	--radius-3xl: calc(var(--radius) + 12px);
+	--radius-4xl: calc(var(--radius) + 16px);
 }
 
 :root {
@@ -142,7 +145,7 @@
     --destructive: oklch(0.5875 0.2303 28.2622);
     --destructive-foreground: oklch(1.0000 0 0);
     --border: oklch(0.4034 0.0277 264.1964);
-    --input: oklch(0.3103 0.0197 264.2318);
+    --input: oklch(0.4034 0.0277 264.1964);
     --ring: oklch(0.6460 0.1199 272.0346);
     --chart-1: oklch(0.6460 0.1199 272.0346);
     --chart-2: oklch(0.7562 0.1438 62.2270);
@@ -185,6 +188,6 @@
     }
     body {
         @apply bg-background text-foreground;
-        letter-spacing: var(--tracking-normal);
+    letter-spacing: var(--tracking-normal);
     }
 }

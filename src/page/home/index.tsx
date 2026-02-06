@@ -15,13 +15,18 @@ function HeroSection() {
 
 	return (
 		<div className="main-section hero">
-			<img className="hero-profile" src="/profile.webp" alt="" />
+			<a className="hero-profile" onClick={ev => {
+				ev.preventDefault();
+				alert("Hello, World!");
+			}}>
+				<img className="hero-profile" src="/profile.webp" alt="" />
+			</a>
 			<div>
-				<h1 className="hero-title text-5xl">
-					<b>Project_IO</b>
-				</h1>
+				<a className="hero-title text-4xl" href="mailto:me@wh64.net">
+					<b>me@projecttl.net</b>
+				</a>
 				<p className="hero-subtitle text-xl">
-					<b>Full-stack Dev & DevOps Engineer</b>
+					<b>DevOps Engineer & Full-stack Dev</b>
 				</p>
 				<div className="flex flex-row mt-1 mb-8 justify-center md:justify-start">
 					<Badge className="mr-1">projecttl.net</Badge>
@@ -30,12 +35,12 @@ function HeroSection() {
 					<Badge variant="outline">naruc.kr</Badge>
 				</div>
 
-				<p className="hero-extra text-sm">항상 꼼꼼하게 확인하고 배포 자동화를 하는 DevOps 엔지니어 <b>김원혁(Project_IO)</b> 입니다.</p>
+				<p className="hero-extra text-sm">항상 꼼꼼하게 확인하고 배포 자동화를 하는 DevOps 엔지니어 <b>김원혁</b>(프로젝트) 입니다.</p>
 				<div className="hero-actions">
 					<Button className="btn-gap" onClick={() => window.open("https://github.com/devproje", "_blank")}>
 						<GitBranch size={24} /> Go to Github
 					</Button>
-					<Button variant={"secondary"} onClick={() => nav("/contact")}>
+					<Button variant={"secondary"} onClick={() => nav("/link")}>
 						<Contact size={24} /> Contact with me
 					</Button>
 				</div>
@@ -67,7 +72,7 @@ function Projects() {
 						</CarouselItem>
 					))}
 				</CarouselContent>
-				{project.length > 2 && !isMobile ? (
+				{project.length > 3 && !isMobile ? (
 					<>
 						<CarouselPrevious />
 						<CarouselNext />
@@ -144,23 +149,7 @@ function SideNote() {
 	return (
 		<Section id="contact" title="💬 Side Note (여담)">
 			<ul className="stacks-tmi list-disc">
-				<li className="text-sm">
-					<p>WSERVER라는 3대의 Proxmox VE 클러스터와 Fedora 단일 노드가 있으며 총 4대의 노드를 운영 중입니다.</p>
-					<ul className="stacks-tmi list-circle">
-						<li>
-							<b>W01:</b> Intel i5-7600, DDR4 48 GiB, HDD 10 TiB
-						</li>
-						<li>
-							<b>W02:</b> Intel Xeon E5-2680 v4, DDR4 64 GiB, SSD 2 TiB
-						</li>
-						<li>
-							<b>W03:</b> Intel Xeon E5-2683 v4 x2, 32 GiB, SSD 1 TiB (Fedora)
-						</li>
-						<li>
-							<b>W04:</b> Ryzen 5 5600, 16 GiB, SSD 1 TiB
-						</li>
-					</ul>
-				</li>
+				<li className="text-sm"><p>WSERVER라는 3대의 Proxmox VE 클러스터와 Fedora 단일 노드가 있으며 총 4대의 노드를 운영 중입니다.</p></li>
 				<li className="text-sm">Windows가 싫어서 Fedora를 사용하는 청년입니다. <del className="opacity-70">(WSL 안사요)</del></li>
 				<li className="text-sm">현재 동양미래대학교 컴퓨터정보공학과 23학번으로 재학중 입니다. <del className="opacity-70">집 보내줘요</del></li>
 				<li className="text-sm">Go, TypeScript를 주력으로 사용하고 있으며, 프로젝트에 따라 Kotlin, Rust, Java 등 매칭되는 언어를 사용하는 편입니다.</li>

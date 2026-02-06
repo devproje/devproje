@@ -15,7 +15,7 @@ export const projects: ProjectData[] = [
 		name: "InventoryGUI",
 		description: "코틀린 전용 마인크래프트 인벤토리 UI 시스템",
 		private: false,
-		href: "https://github.com/project-official/InventoryGUI",
+		href: "https://github.com/devproje/InventoryGUI",
 		tags: [
 			{ name: "Kotlin" },
 			{ name: "PaperMC", library: true }

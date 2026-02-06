@@ -80,13 +80,35 @@
 		border-radius: 100%;
 	}
 
+	.hero-profile-no-border {
+		max-width: 250px;
+		max-height: 250px;
+		margin: 0 0 1.5rem 0;
+
+		@media (min-width: 780px) {
+			margin: 0 8rem 0 0;
+		}
+	}
+
 	.hero-title {
-		width: 100%;
+		margin: auto;
 		display: flex;
+		width: fit-content;
 		align-items: center;
 		justify-content: center;
+		color: var(--background);
+		transition-duration: 0.3s;
+		cursor: pointer !important;
+		background-color: var(--foreground);
 		@media (min-width: 780px) {
+			margin: 0;
 			justify-content: flex-start;
+		}
+
+		&:hover {
+			color: var(--foreground);
+			background-color: var(--background);
+			transition: ease-in-out 0.3s;
 		}
 	}
 
@@ -173,6 +195,10 @@
 	.list-circle {
 		list-style: circle !important;
 	}
+}
+
+.rnd {
+	border-radius: 100%;
 }
 
 button {
