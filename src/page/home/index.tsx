@@ -22,7 +22,7 @@ function HeroSection() {
 				<img className="hero-profile" src="/profile.webp" alt="" />
 			</a>
 			<div>
-				<a className="hero-title text-4xl" href="mailto:me@wh64.net">
+				<a className="hero-title text-4xl" href="mailto:me@projecttl.net">
 					<b>me@projecttl.net</b>
 				</a>
 				<p className="hero-subtitle text-xl">
