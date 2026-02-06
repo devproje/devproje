@@ -58,7 +58,7 @@ function BioLink() {
 			<Card className="w-[370px] flex flex-col px-5">
 				<div className="flex flex-col items-center justify-center">
 					<img className="rnd mb-2" src="/profile.webp" width={80} height={80} />
-					<h4 className="text-lg flex justify-center mb-2"><b>WH64</b></h4>
+					<h4 className="text-lg flex justify-center mb-2"><b>Project_IO</b></h4>
 					<div className="flex pb-2">
 						<Badge className="mr-2">
 							DevOps
