@@ -149,7 +149,7 @@ function SideNote() {
 	return (
 		<Section id="contact" title="💬 Side Note (여담)">
 			<ul className="stacks-tmi list-disc">
-				<li className="text-sm"><p>WSERVER라는 3대의 Proxmox VE 클러스터와 Fedora 단일 노드가 있으며 총 4대의 노드를 운영 중입니다.</p></li>
+				<li className="text-sm"><p>WSERVER라는 3대의 Fedora 노드와 Proxmox VE 단일 노드가 있으며 총 4대의 노드를 운영 중입니다.</p></li>
 				<li className="text-sm">Windows가 싫어서 Fedora를 사용하는 청년입니다. <del className="opacity-70">(WSL 안사요)</del></li>
 				<li className="text-sm">현재 동양미래대학교 컴퓨터정보공학과 23학번으로 재학중 입니다. <del className="opacity-70">집 보내줘요</del></li>
 				<li className="text-sm">Go, TypeScript를 주력으로 사용하고 있으며, 프로젝트에 따라 Kotlin, Rust, Java 등 매칭되는 언어를 사용하는 편입니다.</li>
