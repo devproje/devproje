@@ -9,8 +9,10 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@lit-labs/router": "^0.1.4",
 		"@material/web": "^2.4.1",
-		"lit": "^3.3.2"
+		"lit": "^3.3.2",
+		"material-symbols": "^0.44.2"
 	},
 	"devDependencies": {
 		"typescript": "~6.0.2",
