@@ -6,8 +6,6 @@ import "material-symbols/outlined.css";
 import "./components/social-icon";
 import "@material/web/all";
 
-import github from "./assets/github.svg";
-
 @customElement("my-element")
 export class MyElement extends LitElement {
 	render() {
