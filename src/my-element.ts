@@ -19,7 +19,7 @@ export class MyElement extends LitElement {
 						</a>
 					</h1>
 				</div>
-				
+
 				<span>Founder & DevOps Engineer of WSERVER</span>
 
 				<div class="social-row">
