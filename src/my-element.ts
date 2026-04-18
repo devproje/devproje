@@ -92,13 +92,13 @@ export class MyElement extends LitElement {
 
 		h1,
 		::slotted(h1) {
-			font-size: 36px;
+			font-size: 32px;
 			letter-spacing: -1.68px;
 			margin: 32px 0;
 		}
 
 		h2 {
-			font-size: 24px;
+			font-size: 20px;
 			line-height: 118%;
 			letter-spacing: -0.24px;
 			margin: 0 0 8px;
