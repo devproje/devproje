@@ -1,27 +1,35 @@
-import { customElement } from "lit/decorators.js";
+import { customElement, state } from "lit/decorators.js";
 import { LitElement, css, html } from "lit";
 import logo from "./assets/logo.png";
 
 import "material-symbols/outlined.css";
 import "./components/social-icon";
+import "./components/timeline";
 import "@material/web/all";
+import type { TimelineData } from "./components/timeline";
 
 @customElement("my-element")
 export class MyElement extends LitElement {
+	@state()
+	year2022: TimelineData[] = [
+		{
+			content: "전자기기기능사 취득",
+			date: new Date("2022-07-22")
+		}
+	];
+
 	render() {
 		return html`
-			<section class="view">
-				<div class="section">
-					<img class="logo" src=${logo}>
+			<section class="header">
+				<div class="logo">
+					<img class="logo-img" src=${logo}>
 					<h1 class="email-addr">
 						<a href="mailto:me@projecttl.net">
 							me@projecttl.net
 						</a>
 					</h1>
 				</div>
-
-				<span>Founder & DevOps Engineer of WSERVER</span>
-
+				<span class="slogan">Founder & DevOps Engineer of WSERVER</span>
 				<div class="social-row">
 					<social-icon href="mailto:me@projecttl.net">
 						<span class="material-symbols-outlined">mail</span>
@@ -48,6 +56,17 @@ export class MyElement extends LitElement {
 						<span class="material-symbols-outlined">rss_feed</span>
 					</social-icon>
 				</div>
+			</section>
+			<section class="view">
+				<h2>Info</h2>
+				<p>서비스 아키텍쳐 설계에 관심이 많고 서비스 배포 자동화를 담당하는 DevOps Engineer인 프로젝트 입니다.</p>
+			</section>
+			<section class="view">
+				<h2>Projects</h2>
+			</section>
+			<section class="view">
+				<h2>Timeline</h2>
+				<timeline-element year="2022" .timelines=${this.year2022}></timeline-element>
 			</section>
 		`
 	}
@@ -87,6 +106,7 @@ export class MyElement extends LitElement {
 		::slotted(h2) {
 			font-family: var(--heading);
 			font-weight: bold;
+			width: fit-content;
 			color: var(--text-h);
 		}
 
@@ -104,8 +124,10 @@ export class MyElement extends LitElement {
 			margin: 0 0 8px;
 		}
 
-		p {
+		p, span {
 			margin: 0;
+			width: fit-content;
+			text-align: left;
 		}
 
 		code {
@@ -119,34 +141,35 @@ export class MyElement extends LitElement {
 			background: var(--code-bg);
 		}
 
-		.logo {
-			width: 50px;
-			padding-right: 15px;
-		}
-
-		.section {
+		.header {
 			display: flex;
-			width: fit-content;
-			height: fit-content;
-			align-items: center;
+			padding: 2.5rem 10px;
+			flex-direction: column;
+			justify-content: flex-start;
 		}
 
 		.view {
-			--y: 2.5rem;
-
 			display: flex;
+			height: fit-content;
+			padding: 2.5rem 10px;
 			flex-direction: column;
-			padding: var(--y) 10px;
+			justify-content: flex-start;
+		}
 
-			flex: 1;
-			max-height: 450px;
+		.logo {
+			height: 50px;
+			display: flex;
+			align-items: center;
 
-			h1, h2, p, span {
-				margin: 0;
-				width: fit-content;
-				align-content: center;
-				justify-content: flex-start;
+			h1 {
+				display: flex;
+				align-items: center;
 			}
+		}
+
+		.logo-img {
+			width: 50px;
+			padding-right: 15px;
 		}
 
 		.email-addr {
@@ -187,6 +210,11 @@ export class MyElement extends LitElement {
 
 		.email-addr:hover a {
 			color: var(--text-h);
+		}
+
+		.slogan {
+			width: fit-content;
+			padding-bottom: 0.75rem;
 		}
 
 		.social-row {
