@@ -2,19 +2,80 @@ import { customElement, state } from "lit/decorators.js";
 import { LitElement, css, html } from "lit";
 import logo from "./assets/logo.png";
 
-import "material-symbols/outlined.css";
-import "./components/social-icon";
-import "./components/timeline";
 import "@material/web/all";
+import "./components/timeline";
+import "./components/social-icon";
+import "material-symbols/outlined.css";
 import type { TimelineData } from "./components/timeline";
 
 @customElement("my-element")
 export class MyElement extends LitElement {
 	@state()
-	year2022: TimelineData[] = [
+	_timelines: TimelineData[] = [
+		{
+			content: "동양미래대학교 전공심화과정 입학",
+			date: new Date("2026-03-03"),
+			type: "education"
+		},
+		{
+			content: "동양미래대학교 졸업",
+			date: new Date("2026-02-20"),
+			type: "education"
+		},
+		{
+			content: "AngelHack HackSeoul",
+			date: new Date("2025-08-24"),
+			type: "education"
+		},
+		{
+			content: "Google I/O Extended 2025 Incheon",
+			date: new Date("2025-07-26"),
+			type: "education"
+		},
+		{
+			content: "DDD Seoul",
+			date: new Date("2024-12-07"),
+			type: "education"
+		},
+		{
+			content: "동양미래대학교 교내 스마트앱프로젝트 대회",
+			date: new Date("2024-12-06"),
+			type: "hackathon"
+		},
+		{
+			content: "AngelHack HackSeoul",
+			date: new Date("2024-08-24"),
+			type: "hackathon"
+		},
+		{
+			content: "UbuCon Korea 2024",
+			date: new Date("2024-08-10"),
+			type: "conference"
+		},
+		{
+			content: "Google I/O Extended 2024 Incheon",
+			date: new Date("2024-07-27"),
+			type: "conference"
+		},
+		{
+			content: "동양미래대학교 입학",
+			date: new Date("2023-03-02"),
+			type: "education"
+		},
+		{
+			content: "세명컴퓨터고등학교 졸업",
+			date: new Date("2023-01-03"),
+			type: "education"
+		},
 		{
 			content: "전자기기기능사 취득",
-			date: new Date("2022-07-22")
+			date: new Date("2022-07-22"),
+			type: "certificate"
+		},
+		{
+			content: "세명컴퓨터고등학교 입학",
+			date: new Date("2020-03-02"),
+			type: "education"
 		}
 	];
 
@@ -59,14 +120,14 @@ export class MyElement extends LitElement {
 			</section>
 			<section class="view">
 				<h2>Info</h2>
-				<p>서비스 아키텍쳐 설계에 관심이 많고 서비스 배포 자동화를 담당하는 DevOps Engineer인 프로젝트 입니다.</p>
+				<p class="info-content">서비스 아키텍쳐 설계에 관심이 많고 서비스 배포 자동화를 담당하는 DevOps Engineer인 프로젝트 입니다.</p>
 			</section>
 			<section class="view">
 				<h2>Projects</h2>
 			</section>
 			<section class="view">
 				<h2>Timeline</h2>
-				<timeline-element year="2022" .timelines=${this.year2022}></timeline-element>
+				<timeline-element year="2022" .timelines=${this._timelines}></timeline-element>
 			</section>
 		`
 	}
@@ -121,7 +182,7 @@ export class MyElement extends LitElement {
 			font-size: 20px;
 			line-height: 118%;
 			letter-spacing: -0.24px;
-			margin: 0 0 8px;
+			margin: 0;
 		}
 
 		p, span {
@@ -238,6 +299,10 @@ export class MyElement extends LitElement {
 				direction: ltr;
 				-webkit-font-smoothing: antialiased;
 			}
+		}
+
+		.info-content {
+			margin-top: 10px;
 		}
 	`
 }
