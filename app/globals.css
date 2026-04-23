@@ -85,16 +85,7 @@ a {
 
 a:hover {
 	transition: color 0.2s ease-in-out;
-	color: var(--color-blue-300);
+	color: var(--color-blue-500);
 
 	text-decoration: none;
-}
-
-.footer-link {
-	color: var(--color-background);
-}
-
-.footer-link:hover {
-	transition: color 0.2s ease-in-out;
-	color: var(--color-blue-400);
 }

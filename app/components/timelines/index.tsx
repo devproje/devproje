@@ -1,4 +1,4 @@
-import { Ban, Calendar, Contact, GraduationCap, IdCard, Trophy } from "lucide-react";
+import { Calendar } from "lucide-react";
 
 export type TimelineType = "education" | "hackathon" | "conference" | "certificate";
 
@@ -88,40 +88,28 @@ function RenderDate({ date }: { date: Date }) {
 
 	return (
 		<>
+			<Calendar size={20} />
+
 			{month} {day}, {d}
-			<b className="font-bold h-5">{date.getFullYear()}</b>
+			<b className="font-bold">{date.getFullYear()}</b>
 		</>
 	);
-}
-
-
-function TimelineIcon({ type }: { type: TimelineType }) {
-	const size = 20;
-
-	switch (type) {
-		case "certificate":
-			return <IdCard size={size} />;
-		case "conference":
-			return <Contact size={size} />;
-		case "education":
-			return <GraduationCap size={size} />;
-		case "hackathon":
-			return <Trophy size={size} />;
-		default:
-			return <Ban size={size} />;
-	}
 }
 
 function Timeline(props: TimelineProps) {
 	return (
 		<div className="flex flex-row justify-between items-center">
-			<div className="flex flex-row items-center gap-1.5 h-5">
-				<TimelineIcon type={props.timeline.type} />
+			<div className="flex flex-row items-center justify-center gap-1.5 h-5">
+				<div className="flex flex-row gap-x-1.5 my-2 text-sm cursor-default">
+					<span className="bg-blue-500 px-3 rounded-full text-foreground">
+						{props.timeline.type.charAt(0).toUpperCase() + props.timeline.type.substring(1, props.timeline.type.length)}
+					</span>
+				</div>
+
 				{props.timeline.title}
 			</div>
 
 			<div className="flex flex-row items-center gap-1.5 h-5">
-				<Calendar size={20} />
 				<RenderDate date={props.timeline.date} />
 			</div>
 		</div>
@@ -130,7 +118,7 @@ function Timeline(props: TimelineProps) {
 
 export default function Timelines(props: TimelinesProps) {
 	return (
-		<div className="flex flex-col-reverse">
+		<div className="flex flex-col-reverse gap-y-2">
 			{props.timelines.map((data, index) => <Timeline timeline={data} key={index} />)}
 		</div>
 	);
