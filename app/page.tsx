@@ -2,6 +2,7 @@ import Header from "./components/header";
 import Section from "./components/section";
 import Projects, { ProjectData } from "./components/projects";
 import Timelines, { TimelineData } from "./components/timelines";
+import Footer from "./components/footer";
 
 export default async function Home() {
 	const url = process.env.BACKEND_URL;
@@ -74,6 +75,7 @@ export default async function Home() {
 					<Timelines timelines={timelines} />
 				</Section>
 			</main>
+			<Footer />
 		</div>
 	);
 }
