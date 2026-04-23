@@ -1,0 +1,15 @@
+interface SectionProps {
+	title: string;
+	children: React.ReactNode;
+}
+
+export default function Section(props: SectionProps) {
+	return (
+		<section className="w-full h-fit py-8">
+			<h2 className="text-2xl font-bold">{props.title}</h2>
+			<span className="text-neutral-400">
+				{props.children}
+			</span>
+		</section>
+	);
+}
