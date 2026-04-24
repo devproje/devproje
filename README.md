@@ -4,8 +4,7 @@
 
 ## About Me
 
-- Primary languages: **Go**, **TypeScript**
-- Running my own infrastructure: `projecttl.net`, `wh64.net`, `tpr.kr`, `naruc.kr`
+- Primary languages: **Go**, **Rust**, **TypeScript**
 - Currently studying at Dongyang Mirae University (Class of '26)
 
 ## Contact

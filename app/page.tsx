@@ -68,6 +68,10 @@ export default async function Home() {
 					</p>
 
 					<p className="pt-3">
+						그리고 전 동양미래대학교 컴퓨터정보공학과 23학번을 졸업 했으며, 현재는 동양미래대학교 웹응용소프트웨어공학과 (학사학위) 26학번으로 재학 중입니다.
+					</p>
+
+					<p className="pt-3">
 						또한 지금까지의 경험을 바탕으로 2026년 초부터 <b className="text-foreground">WSERVER</b>라는 사업체를 만들고 있으며 오픈소스 CI/CD 툴인 <b className="text-foreground">nanokuma</b>를 열심히 개발하고 있습니다.
 					</p>
 				</Section>
