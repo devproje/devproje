@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 
 import Header from "./components/header";
 import Section from "./components/section";
@@ -5,7 +6,7 @@ import Projects, { ProjectData } from "./components/projects";
 import Timelines, { TimelineData } from "./components/timelines";
 import Footer from "./components/footer";
 
-const url = process.env.BACKEND_URL;
+const url = process.env.BACKEND_URL ?? "";
 const pend = process.env.PROJECT_ENDPOINT;
 const time = process.env.TIMELINE_ENDPOINT;
 
@@ -18,6 +19,7 @@ const loadProjects = async (): Promise<ProjectData[]> => {
 	try {
 		const data = await fetch(`${url}${pend}`, {
 			method: "GET",
+			cache: "no-store"
 		});
 
 		return await data.json();
@@ -37,6 +39,7 @@ const loadTimelines = async (): Promise<TimelineData[]> => {
 	try {
 		const data = await fetch(`${url}${time}`, {
 			method: "GET",
+			cache: "no-store"
 		});
 
 		const timelines: TimelineData[] = await data.json();
