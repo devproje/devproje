@@ -36,14 +36,14 @@ function Project(props: ProjectProps) {
 	return (
 		<div className="flex flex-row w-full justify-between">
 			<div className="flex flex-col">
-				{props.project.project_href ? (
+				{!props.project.project_href ? (
 					<div className="cursor-default flex w-fit flex-row justify-start items-center text-foreground font-bold text-xl gap-x-1">
 						{icon}
 						{props.project.title}
 					</div>
 				) : (
 					<a className="cursor-pointer flex w-fit flex-row justify-start items-center text-foreground font-bold text-xl gap-x-1"
-					href={props.project.project_href}
+						href={props.project.project_href}
 					>
 						{icon}
 						{props.project.title}
