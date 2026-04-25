@@ -2,6 +2,8 @@ FROM oven/bun
 
 WORKDIR /app
 
+ENV NEXT_TELEMETRY_DISABLED=1
+
 COPY . .
 
 RUN bun install
