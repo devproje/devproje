@@ -89,3 +89,30 @@ a:hover {
 
 	text-decoration: none;
 }
+
+.microkuma {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	position: fixed;
+	bottom: 24px;
+	right: 24px;
+
+	width: 40px;
+	height: 40px;
+
+	cursor: pointer;
+	border-radius: 8px;
+	background-color: var(--color-blue-400);
+}
+
+.microkuma .logo {
+	width: 32px;
+	height: 32px;
+	transition: box-shadow 0.3s ease;
+}
+
+.microkuma:hover .logo {
+  	box-shadow: 0 0 12px 2px var(--foreground);
+}

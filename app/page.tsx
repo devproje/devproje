@@ -5,6 +5,7 @@ import Section from "./components/section";
 import Projects, { ProjectData } from "./components/projects";
 import Timelines, { TimelineData } from "./components/timelines";
 import Footer from "./components/footer";
+import Microkuma from "./components/microkuma";
 
 const url = process.env.BACKEND_URL ?? "";
 const pend = process.env.PROJECT_ENDPOINT;
@@ -88,6 +89,8 @@ export default async function Home() {
 				</Section>
 				<Footer />
 			</main>
+
+			{/* <Microkuma /> */}
 		</div>
 	);
 }
