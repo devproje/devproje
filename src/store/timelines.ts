@@ -5,7 +5,7 @@ export type TimelineType = "education" | "hackathon" | "conference" | "certifica
 export interface TimelineData {
 	title: string;
 	content?: string;
-	date: Date;
+	date: string;
 	type: TimelineType;
 }
 
@@ -17,16 +17,19 @@ interface ProjectStore {
 const useTimelines = create<ProjectStore>((set) => ({
 	data: [],
 	load() {
-		fetch("/api/timelines", {
-			"method": "GET",
-			"mode": "same-origin",
-			headers: {
-				"Content-Type": "application/json"
-			}
-		})
-		.then((res) => res.json())
-		.then((json: TimelineData[]) => set(() => ({ data: json })))
-		.catch(() => console.error("fetch api failed"));
+		try {
+			fetch("/api/timelines", {
+				"method": "GET",
+				"mode": "same-origin",
+				headers: {
+					"Content-Type": "application/json"
+				}
+			})
+			.then((res) => res.json())
+			.then((json: TimelineData[]) => set(() => ({ data: json })));
+		} catch {
+			console.error("failed fetch");
+		}
 	}
 }));
 

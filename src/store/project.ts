@@ -16,16 +16,19 @@ interface ProjectStore {
 const useProjects = create<ProjectStore>((set) => ({
 	data: [],
 	load() {
-		fetch("/api/projects", {
-			"method": "GET",
-			"mode": "same-origin",
-			headers: {
-				"Content-Type": "application/json"
-			}
-		})
-		.then((res) => res.json())
-		.then((json: ProjectData[]) => set(() => ({ data: json })))
-		.catch(() => console.error("fetch api failed"));
+		try {
+			fetch("/api/projects", {
+				"method": "GET",
+				"mode": "same-origin",
+				headers: {
+					"Content-Type": "application/json"
+				}
+			})
+			.then((res) => res.json())
+			.then((json: ProjectData[]) => set(() => ({ data: json })));
+		} catch {
+			console.error("failed fetch");
+		}
 	}
 }));
 

@@ -16,7 +16,7 @@ function App() {
 		const id = setInterval(() => {
 			projects.load();
 			timelines.load();
-		}, 2000);
+		}, 100);
 
 		return () => clearInterval(id);
 	}, [projects, timelines]);

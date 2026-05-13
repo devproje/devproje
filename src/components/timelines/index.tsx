@@ -9,10 +9,12 @@ interface TimelinesProps {
 }
 
 function Timeline(props: TimelineProps) {
+	const date = new Date(props.timeline.date);
+
 	return (
 		<div className="flex flex-col items-start gap-1 sm:flex-row sm:justify-between sm:items-center">
 			<div className="flex flex-row items-center justify-center gap-1.5 h-5 w-fit">
-				<span className="text-sm text-foreground">[{props.timeline.date.getFullYear()}]</span>
+				<span className="text-sm text-foreground">[{date.getFullYear()}]</span>
 				<span className="text-sm items-center">{props.timeline.title}</span>
 			</div>
 
