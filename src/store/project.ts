@@ -25,7 +25,10 @@ const useProjects = create<ProjectStore>((set) => ({
 				}
 			})
 			.then((res) => res.json())
-			.then((json: ProjectData[]) => set(() => ({ data: json })));
+			.then((json: ProjectData[]) => set(() => ({ data: json })))
+			.catch(() => {
+				console.error("server is not responding");
+			});
 		} catch {
 			console.error("failed fetch");
 		}

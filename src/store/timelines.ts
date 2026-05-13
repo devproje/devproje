@@ -26,7 +26,10 @@ const useTimelines = create<ProjectStore>((set) => ({
 				}
 			})
 			.then((res) => res.json())
-			.then((json: TimelineData[]) => set(() => ({ data: json })));
+			.then((json: TimelineData[]) => set(() => ({ data: json })))
+			.catch(() => {
+				console.error("server is not responding");
+			});
 		} catch {
 			console.error("failed fetch");
 		}
