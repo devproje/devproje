@@ -10,22 +10,22 @@ export interface ProjectData {
 
 interface ProjectStore {
 	data: ProjectData[];
-	load(): Promise<void>;
+	load(): void;
 }
 
 const useProjects = create<ProjectStore>((set) => ({
 	data: [],
-	async load() {
-		const res = await fetch("/api/projects", {
+	load() {
+		fetch("/api/projects", {
 			"method": "GET",
 			"mode": "same-origin",
 			headers: {
 				"Content-Type": "application/json"
 			}
-		});
-		const data: ProjectData[] = await res.json();
-
-		set(() => ({ data }));
+		})
+		.then((res) => res.json())
+		.then((json: ProjectData[]) => set(() => ({ data: json })))
+		.catch(() => console.error("fetch api failed"));
 	}
 }));
 

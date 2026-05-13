@@ -11,22 +11,22 @@ export interface TimelineData {
 
 interface ProjectStore {
 	data: TimelineData[];
-	load(): Promise<void>;
+	load(): void;
 }
 
 const useTimelines = create<ProjectStore>((set) => ({
 	data: [],
-	async load() {
-		const res = await fetch("/api/timelines", {
+	load() {
+		fetch("/api/timelines", {
 			"method": "GET",
 			"mode": "same-origin",
 			headers: {
 				"Content-Type": "application/json"
 			}
-		});
-		const data: TimelineData[] = await res.json();
-
-		set(() => ({ data }));
+		})
+		.then((res) => res.json())
+		.then((json: TimelineData[]) => set(() => ({ data: json })))
+		.catch(() => console.error("fetch api failed"));
 	}
 }));
 
