@@ -9,17 +9,13 @@ import useProjects from "./store/project";
 import useTimelines from "./store/timelines";
 
 function App() {
-	const projects = useProjects();
-	const timelines = useTimelines();
+	const projects = useProjects((s) => s.data);
+	const timelines = useTimelines((s) => s.data);
 
 	useEffect(() => {
-		const id = setInterval(() => {
-			projects.load();
-			timelines.load();
-		}, 100);
-
-		return () => clearInterval(id);
-	}, [projects, timelines]);
+		useProjects.getState().load();
+		useTimelines.getState().load();
+	}, []);
 
 	return (
 		<div className="flex flex-col flex-1 items-center justify-center font-sans">
@@ -43,11 +39,11 @@ function App() {
 				</Section>
 
 				<Section title="Latest Projects">
-					<Projects projects={projects.data} />
+					<Projects projects={projects} />
 				</Section>
 
 				<Section title="Timelines">
-					<Timelines timelines={timelines.data} />
+					<Timelines timelines={timelines} />
 				</Section>
 				<Footer />
 			</main>
