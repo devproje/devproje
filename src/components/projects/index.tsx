@@ -1,3 +1,4 @@
+import type { ProjectData } from "@/store/project";
 import { Book, Lock } from "lucide-react";
 
 interface ProjectProps {
@@ -6,14 +7,6 @@ interface ProjectProps {
 
 interface ProjectsProps {
 	projects?: ProjectData[];
-}
-
-export interface ProjectData {
-	private?: boolean;
-	title: string;
-	description: string;
-	project_href?: string | undefined;
-	tags?: string[];
 }
 
 function Project(props: ProjectProps) {

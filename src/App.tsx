@@ -1,63 +1,25 @@
-export const dynamic = "force-dynamic";
-
+import { useEffect } from "react";
 import Header from "./components/header";
 import Section from "./components/section";
-import Projects, { ProjectData } from "./components/projects";
-import Timelines, { TimelineData } from "./components/timelines";
+import Projects from "./components/projects";
+import Timelines from "./components/timelines";
 import Footer from "./components/footer";
-import Microkuma from "./components/microkuma";
 
-const url = process.env.BACKEND_URL ?? "";
-const pend = process.env.PROJECT_ENDPOINT;
-const time = process.env.TIMELINE_ENDPOINT;
+import useProjects from "./store/project";
+import useTimelines from "./store/timelines";
 
-const loadProjects = async (): Promise<ProjectData[]> => {
-	"use server";
+function App() {
+	const projects = useProjects();
+	const timelines = useTimelines();
 
-	if (!url || !pend)
-		return [];
+	useEffect(() => {
+		const id = setInterval(() => {
+			projects.load();
+			timelines.load();
+		}, 2000);
 
-	try {
-		const data = await fetch(`${url}${pend}`, {
-			method: "GET",
-			cache: "no-store"
-		});
-
-		return await data.json();
-	} catch (err) {
-		console.error(err);
-	}
-
-	return [];
-};
-
-const loadTimelines = async (): Promise<TimelineData[]> => {
-	"use server";
-
-	if (!url || !time)
-		return [];
-
-	try {
-		const data = await fetch(`${url}${time}`, {
-			method: "GET",
-			cache: "no-store"
-		});
-
-		const timelines: TimelineData[] = await data.json();
-		return timelines.map((d: TimelineData) => ({
-			...d,
-			date: new Date(d.date)
-		}));
-	} catch (err) {
-		console.error(err);
-	}
-
-	return [];
-};
-
-export default async function Home() {
-	const projects = await loadProjects();
-	const timelines = await loadTimelines();
+		return () => clearInterval(id);
+	}, [projects, timelines]);
 
 	return (
 		<div className="flex flex-col flex-1 items-center justify-center font-sans">
@@ -81,16 +43,16 @@ export default async function Home() {
 				</Section>
 
 				<Section title="Latest Projects">
-					<Projects projects={projects} />
+					<Projects projects={projects.data} />
 				</Section>
 
 				<Section title="Timelines">
-					<Timelines timelines={timelines} />
+					<Timelines timelines={timelines.data} />
 				</Section>
 				<Footer />
 			</main>
-
-			{/* <Microkuma /> */}
 		</div>
 	);
 }
+
+export default App;

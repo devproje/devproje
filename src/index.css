@@ -1,13 +1,14 @@
 @import "tailwindcss";
+
 @font-face {
 	font-family: "Wanted Sans Variable";
-	src: url("fonts/WantedSansVariable.woff2");
+	src: url("assets/fonts/WantedSansVariable.woff2");
 	font-weight: 400;
 }
 
 @font-face {
 	font-family: "JetBrains Mono";
-	src: url("fonts/JetBrainsMono-Regular.woff2");
+	src: url("assets/fonts/JetBrainsMono-Regular.woff2");
 	font-weight: 300;
 }
 
@@ -88,31 +89,4 @@ a:hover {
 	color: var(--color-blue-500);
 
 	text-decoration: none;
-}
-
-.microkuma {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-
-	position: fixed;
-	bottom: 24px;
-	right: 24px;
-
-	width: 40px;
-	height: 40px;
-
-	cursor: pointer;
-	border-radius: 8px;
-	background-color: var(--color-blue-400);
-}
-
-.microkuma .logo {
-	width: 32px;
-	height: 32px;
-	transition: box-shadow 0.3s ease;
-}
-
-.microkuma:hover .logo {
-  	box-shadow: 0 0 12px 2px var(--foreground);
 }

@@ -1,11 +1,4 @@
-export type TimelineType = "education" | "hackathon" | "conference" | "certificate";
-
-export interface TimelineData {
-	title: string;
-	content?: string;
-	date: Date;
-	type: TimelineType;
-}
+import type { TimelineData } from "@/store/timelines";
 
 interface TimelineProps {
 	timeline: TimelineData;

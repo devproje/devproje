@@ -1,36 +1,40 @@
 {
 	"name": "devproje",
-	"version": "0.1.0",
 	"private": true,
+	"version": "0.0.0",
+	"type": "module",
 	"scripts": {
-		"dev": "next dev",
-		"build": "next build",
-		"start": "next start",
-		"lint": "eslint"
+		"dev": "vite",
+		"build": "tsc -b && vite build",
+		"lint": "eslint .",
+		"preview": "vite preview"
 	},
 	"dependencies": {
-		"lucide-react": "^1.8.0",
-		"next": "16.2.4",
-		"react": "19.2.4",
-		"react-dom": "19.2.4",
-		"zustand": "^5.0.12"
+		"lucide-react": "^1.14.0",
+		"react": "^19.2.6",
+		"react-dom": "^19.2.6",
+		"react-router": "^7.15.0",
+		"zustand": "^5.0.13"
 	},
 	"devDependencies": {
-		"@tailwindcss/postcss": "^4",
-		"@types/node": "^20",
-		"@types/react": "^19",
-		"@types/react-dom": "^19",
-		"eslint": "^9",
-		"eslint-config-next": "16.2.4",
-		"tailwindcss": "^4",
-		"typescript": "^5"
-	},
-	"ignoreScripts": [
-		"sharp",
-		"unrs-resolver"
-	],
-	"trustedDependencies": [
-		"sharp",
-		"unrs-resolver"
-	]
+		"@babel/core": "^7.29.0",
+		"@eslint/js": "^10.0.1",
+		"@rolldown/plugin-babel": "^0.2.3",
+		"@tailwindcss/postcss": "^4.3.0",
+		"@tailwindcss/vite": "^4.3.0",
+		"@types/babel__core": "^7.20.5",
+		"@types/node": "^24.12.3",
+		"@types/react": "^19.2.14",
+		"@types/react-dom": "^19.2.3",
+		"@vitejs/plugin-react": "^6.0.1",
+		"babel-plugin-react-compiler": "^1.0.0",
+		"eslint": "^10.3.0",
+		"eslint-plugin-react-hooks": "^7.1.1",
+		"eslint-plugin-react-refresh": "^0.5.2",
+		"globals": "^17.6.0",
+		"tailwindcss": "^4.3.0",
+		"typescript": "~6.0.2",
+		"typescript-eslint": "^8.59.2",
+		"vite": "^8.0.12"
+	}
 }
