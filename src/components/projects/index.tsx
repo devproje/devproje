@@ -13,7 +13,7 @@ function Project(props: ProjectProps) {
 	const tags = !props.project.tags ? <></> : (
 		<div className="flex flex-row gap-x-1.5 my-2 text-sm cursor-default">
 			{props.project.tags.map((tag, index) => index === 0 ? (
-				<span className="bg-[#7aa8da] dark:bg-[#90bff2] px-3 rounded-full text-[#000000]" key={index}>
+				<span className="bg-[#7aa8da] dark:bg-[#90bff2] px-3 rounded-full text-[#16171d]" key={index}>
 					{tag}
 				</span>
 			) : (

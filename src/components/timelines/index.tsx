@@ -20,7 +20,7 @@ function Timeline(props: TimelineProps) {
 
 			<div className="flex flex-row items-center gap-1.5 sm:h-5">
 				<div className="flex flex-row gap-x-1.5 my-2 cursor-default">
-					<span className="bg-[#7aa8da] dark:bg-[#90bff2] px-3 rounded-full text-[#000000] text-sm">
+					<span className="bg-[#7aa8da] dark:bg-[#90bff2] px-3 rounded-full text-[#16171d] text-sm">
 						{props.timeline.type.charAt(0).toUpperCase() + props.timeline.type.substring(1, props.timeline.type.length)}
 					</span>
 				</div>
