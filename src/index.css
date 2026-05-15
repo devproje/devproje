@@ -16,7 +16,7 @@
 	--background: #ffffff;
 	--foreground: #171717;
 
-	--link-color: #90bff2;
+	--link-color: #7aaee6;
 	--hover-color: #5c8dc1;
 }
 
@@ -33,6 +33,8 @@
 	:root {
 		--background: #16171d;
 		--foreground: #ededed;
+
+		--link-color: #90bff2;
 	}
 }
 
