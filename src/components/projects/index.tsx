@@ -17,7 +17,7 @@ function Project(props: ProjectProps) {
 					{tag}
 				</span>
 			) : (
-				<span className="bg-neutral-500 px-3 rounded-full text-foreground" key={index}>
+				<span className="bg-neutral-400 dark:bg-neutral-500 px-3 rounded-full text-foreground" key={index}>
 					{tag}
 				</span>
 			))}
