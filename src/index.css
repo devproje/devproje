@@ -15,6 +15,9 @@
 :root {
 	--background: #ffffff;
 	--foreground: #171717;
+
+	--link-color: #90bff2;
+	--hover-color: #5c8dc1;
 }
 
 @theme inline {
@@ -79,14 +82,12 @@ body {
 
 a {
 	transition: color 0.2s ease-in-out;
-	color: var(--color-foreground);
-
-	text-decoration: underline;
+	color: var(--link-color);
+	text-decoration: none;
 }
 
 a:hover {
 	transition: color 0.2s ease-in-out;
-	color: var(--color-blue-500);
-
+	color: var(--hover-color);
 	text-decoration: none;
 }
