@@ -1,13 +1,9 @@
-# Hi, I'm Project_IO 👋
+# 플랫폼 이동 안내
+이 저장소는 더 이상 유지되지 않습니다.
+모든 프로젝트와 활동은 아래 주소로 이전되었습니다.
 
-**Full-stack Developer & DevOps Engineer**
+**새 주소: [https://git.wserver.kr/devproje](https://git.wserver.kr/devproje)**
 
-## About Me
+---
 
-- Primary languages: **Go**, **Rust**, **TypeScript**
-- Currently studying at Dongyang Mirae University (Class of '26)
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-me@projecttl.net-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@projecttl.net)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dd24sXm4R6)
+*This repository is no longer maintained. All projects have been migrated to the new platform above.*
